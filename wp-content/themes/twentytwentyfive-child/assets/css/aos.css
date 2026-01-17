@@ -1,0 +1,61 @@
+/* Base styles for AOS elements */
+[data-aos] {
+  opacity: 0;
+  transition-property: transform, opacity;
+  /* transition-duration: 0.4s; */
+  transition-timing-function: ease;
+}
+
+/* When element scrolls into view and AOS applies “aos-animate” class */
+[data-aos].aos-animate {
+  opacity: 1;
+  transform: none;
+}
+
+/* Example: fade-up (before & after) */
+[data-aos="fade-up"] {
+  transform: translateY(20px);
+}
+
+[data-aos="fade-up"].aos-animate {
+  transform: translateY(0);
+}
+
+/* Example: fade-down */
+[data-aos="fade-down"] {
+  transform: translateY(-20px);
+}
+
+[data-aos="fade-down"].aos-animate {
+  transform: translateY(0);
+}
+
+/* Example: fade-left */
+[data-aos="fade-left"] {
+  transform: translateX(-20px);
+}
+
+[data-aos="fade-left"].aos-animate {
+  transform: translateX(0);
+}
+
+/* Example: fade-right */
+[data-aos="fade-right"] {
+  transform: translateX(20px);
+}
+
+[data-aos="fade-right"].aos-animate {
+  transform: translateX(0);
+}
+
+/* Example: zoom-in */
+[data-aos="zoom-in"] {
+  transform: scale(0.8);
+}
+
+[data-aos="zoom-in"].aos-animate {
+  transform: scale(1);
+}
+[data-aos] {
+  transition-duration: 1.2s !important;
+}

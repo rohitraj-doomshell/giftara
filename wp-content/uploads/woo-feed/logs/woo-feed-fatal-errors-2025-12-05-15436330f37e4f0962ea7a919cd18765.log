@@ -1,0 +1,39 @@
+2025-12-05T05:50:55+00:00 CRITICAL Uncaught Error: Call to undefined function wc_login_user() in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/functions.php:669
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): {closure}('')
+#1 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-settings.php(742): do_action('init')
+#4 /home1/pydrqhmy/thegiftara.com/wp-config.php(92): require_once('/home1/pydrqhmy...')
+#5 /home1/pydrqhmy/thegiftara.com/wp-load.php(50): require_once('/home1/pydrqhmy...')
+#6 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(13): require_once('/home1/pydrqhmy...')
+#7 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#8 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/functions.php on line 669
+
+2025-12-05T05:51:57+00:00 CRITICAL Uncaught Error: Call to undefined function wc_login_user() in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/functions.php:669
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): {closure}('')
+#1 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-settings.php(742): do_action('init')
+#4 /home1/pydrqhmy/thegiftara.com/wp-config.php(92): require_once('/home1/pydrqhmy...')
+#5 /home1/pydrqhmy/thegiftara.com/wp-load.php(50): require_once('/home1/pydrqhmy...')
+#6 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(13): require_once('/home1/pydrqhmy...')
+#7 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#8 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/functions.php on line 669
+
+2025-12-05T05:52:38+00:00 CRITICAL Uncaught Error: Call to undefined function wc_login_user() in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/functions.php:669
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): {closure}('')
+#1 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-settings.php(742): do_action('init')
+#4 /home1/pydrqhmy/thegiftara.com/wp-config.php(92): require_once('/home1/pydrqhmy...')
+#5 /home1/pydrqhmy/thegiftara.com/wp-load.php(50): require_once('/home1/pydrqhmy...')
+#6 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(13): require_once('/home1/pydrqhmy...')
+#7 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#8 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/functions.php on line 669
+

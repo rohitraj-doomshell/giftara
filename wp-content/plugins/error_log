@@ -1,0 +1,12 @@
+[08-Oct-2025 17:01:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/pydrqhmy/thegiftara.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home4/pydrqhmy/thegiftara.com/wp-content/plugins/hello.php on line 69
+[25-Oct-2025 07:06:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/pydrqhmy/thegiftara.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home4/pydrqhmy/thegiftara.com/wp-content/plugins/hello.php on line 69
+[11-Nov-2025 05:23:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/pydrqhmy/thegiftara.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home4/pydrqhmy/thegiftara.com/wp-content/plugins/hello.php on line 69

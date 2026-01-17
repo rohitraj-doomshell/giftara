@@ -1,0 +1,24 @@
+2026-01-16T07:03:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1368): ["All","Employee Welcome Kit","Graduation","Office Diary","Under 500"].
+2026-01-16T07:03:10+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1368,"google_id":"online:en:IN:gla_1368"}]
+2026-01-16T07:16:41+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1366): ["Employee Welcome Kit","All","Graduation","Office Diary","Under 500"].
+2026-01-16T07:16:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1366,"google_id":"online:en:IN:gla_1366"}]
+2026-01-16T07:21:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1364): ["Employee Welcome Kit","All","Graduation","Office Diary","Under 500"].
+2026-01-16T07:21:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1364,"google_id":"online:en:IN:gla_1364"}]
+2026-01-16T07:26:56+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 9223372036854775807 not found in this WooCommerce store.
+2026-01-16T07:26:56+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 160 not found in this WooCommerce store.
+2026-01-16T07:26:56+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 633 not found in this WooCommerce store.
+2026-01-16T07:26:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:16986702736798279817 not found in this WooCommerce store.
+2026-01-16T07:26:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:gla_160 not found in this WooCommerce store.
+2026-01-16T07:26:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:gla_633 not found in this WooCommerce store.
+2026-01-16T07:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1362): ["Employee Welcome Kit","All","Graduation","Office Diary","Under 500"].
+2026-01-16T07:37:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1362,"google_id":"online:en:IN:gla_1362"}]
+2026-01-16T07:42:40+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1360): ["Employee Welcome Kit","All","Graduation","Office Diary","Under 500"].
+2026-01-16T07:42:43+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1360,"google_id":"online:en:IN:gla_1360"}]
+2026-01-16T07:45:01+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1360): ["Employee Welcome Kit","All","Graduation","Office Diary","Under 500"].
+2026-01-16T07:45:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1360,"google_id":"online:en:IN:gla_1360"}]

@@ -1,0 +1,50 @@
+2025-12-02T10:56:58+00:00 CRITICAL syntax error, unexpected identifier " " in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 965
+
+2025-12-02T10:57:02+00:00 CRITICAL syntax error, unexpected identifier " " in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 965
+
+2025-12-02T10:57:07+00:00 CRITICAL syntax error, unexpected identifier " " in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 965
+
+2025-12-02T12:09:27+00:00 CRITICAL syntax error, unexpected identifier " " in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 1080
+
+2025-12-02T12:09:32+00:00 CRITICAL syntax error, unexpected identifier " " in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 1080
+
+2025-12-02T12:26:11+00:00 CRITICAL Uncaught Error: Undefined constant "state" in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php:731
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/template-loader.php(106): include()
+#1 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(19): require_once('/home1/pydrqhmy...')
+#2 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#3 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 731
+
+2025-12-02T12:26:12+00:00 CRITICAL Uncaught Error: Undefined constant "state" in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php:731
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/template-loader.php(106): include()
+#1 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(19): require_once('/home1/pydrqhmy...')
+#2 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#3 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 731
+
+2025-12-02T12:26:18+00:00 CRITICAL Uncaught Error: Undefined constant "state" in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php:731
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/template-loader.php(106): include()
+#1 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(19): require_once('/home1/pydrqhmy...')
+#2 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#3 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 731
+
+2025-12-02T12:26:30+00:00 CRITICAL Uncaught Error: Undefined constant "state" in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php:731
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/template-loader.php(106): include()
+#1 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(19): require_once('/home1/pydrqhmy...')
+#2 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#3 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 731
+
+2025-12-02T12:26:48+00:00 CRITICAL Uncaught Error: Undefined constant "state" in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php:731
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-includes/template-loader.php(106): include()
+#1 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(19): require_once('/home1/pydrqhmy...')
+#2 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#3 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/template-parts/build-your-own-template.php on line 731
+

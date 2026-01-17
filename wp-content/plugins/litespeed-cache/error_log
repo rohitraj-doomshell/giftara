@@ -1,0 +1,2 @@
+[01-Jan-2026 05:46:46 America/Boise] PHP Warning:  file_get_contents(/home1/pydrqhmy/thegiftara.com/wp-content/.litespeed_conf.dat): Failed to open stream: No such file or directory in /home1/pydrqhmy/thegiftara.com/wp-content/plugins/litespeed-cache/lib/guest.cls.php on line 66
+[04-Jan-2026 09:28:14 America/Boise] PHP Warning:  file_get_contents(/home1/pydrqhmy/thegiftara.com/wp-content/.litespeed_conf.dat): Failed to open stream: No such file or directory in /home1/pydrqhmy/thegiftara.com/wp-content/plugins/litespeed-cache/lib/guest.cls.php on line 66

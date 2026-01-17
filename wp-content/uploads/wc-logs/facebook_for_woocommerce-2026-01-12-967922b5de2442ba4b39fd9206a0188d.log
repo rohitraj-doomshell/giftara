@@ -1,0 +1,26 @@
+2026-01-12T05:49:14+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-12T05:49:14+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(87): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_delete_wc_product_category_callback(183, '183', Object(WP_Term), Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(2233): do_action('delete_product_...', 183, '183', Object(WP_Term), Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/includes/ajax-actions.php(807): wp_delete_term(183, 'product_cat')
+#7 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): wp_ajax_delete_tag('')
+#8 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#9 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#10 /home1/pydrqhmy/thegiftara.com/wp-admin/admin-ajax.php(192): do_action('wp_ajax_delete-...')
+#11 {main}
+2026-01-12T05:51:46+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-12T05:51:46+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(87): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_delete_wc_product_category_callback(193, '193', Object(WP_Term), Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(2233): do_action('delete_product_...', 193, '193', Object(WP_Term), Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/includes/ajax-actions.php(807): wp_delete_term(193, 'product_cat')
+#7 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): wp_ajax_delete_tag('')
+#8 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#9 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#10 /home1/pydrqhmy/thegiftara.com/wp-admin/admin-ajax.php(192): do_action('wp_ajax_delete-...')
+#11 {main}

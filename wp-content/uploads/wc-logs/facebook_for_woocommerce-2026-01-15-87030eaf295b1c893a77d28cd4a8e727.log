@@ -1,0 +1,18 @@
+2026-01-15T09:21:42+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-15T09:21:42+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(29, 29, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 29, 29, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(29, 'product_cat', Array)
+#7 {main}
+2026-01-15T09:25:57+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-15T09:25:57+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(28, 28, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 28, 28, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(28, 'product_cat', Array)
+#7 {main}

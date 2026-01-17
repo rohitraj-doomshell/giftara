@@ -1,0 +1,44 @@
+
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /giftara/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /giftara/index.php [L]
+</IfModule>
+
+# END WordPress
+# ======================
+# BASIC SECURITY (SAFE)
+# ======================
+# Disable directory listing
+Options -Indexes
+# Protect wp-config.php
+<Files wp-config.php>
+Require all denied
+</Files>
+# Block readme and license files
+<FilesMatch "(readme\.html|license\.txt)">
+Require all denied
+</FilesMatch>
+# Block XML-RPC (ONLY if not used)
+<Files xmlrpc.php>
+Require all denied
+</Files>
+# Security headers
+<IfModule mod_headers.c>
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+# GZIP compression
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/css application/javascript
+</IfModule>

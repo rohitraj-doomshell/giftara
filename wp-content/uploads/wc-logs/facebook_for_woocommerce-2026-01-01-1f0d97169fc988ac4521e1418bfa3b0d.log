@@ -1,0 +1,63 @@
+2026-01-01T10:41:01+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-01T10:41:01+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(179, 179, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 179, 179, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(179, 'product_cat', Array)
+#7 {main}
+2026-01-01T10:59:50+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-01T10:59:50+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(180, 180, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 180, 180, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(180, 'product_cat', Array)
+#7 {main}
+2026-01-01T11:02:48+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-01T11:02:48+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(181, 181, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 181, 181, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(181, 'product_cat', Array)
+#7 {main}
+2026-01-01T11:08:16+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-01T11:08:16+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(203, 203, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 203, 203, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(203, 'product_cat', Array)
+#7 {main}
+2026-01-01T11:15:41+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-01T11:15:41+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(160, 160, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 160, 160, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(160, 'product_cat', Array)
+#7 {main}
+2026-01-01T11:18:58+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-01T11:18:58+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(187, 187, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 187, 187, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(187, 'product_cat', Array)
+#7 {main}
+2026-01-01T11:37:41+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-01T11:37:41+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback(185, 185, Array)
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/taxonomy.php(3489): do_action('edited_product_...', 185, 185, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-admin/edit-tags.php(183): wp_update_term(185, 'product_cat', Array)
+#7 {main}

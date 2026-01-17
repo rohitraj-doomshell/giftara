@@ -1,0 +1,853 @@
+2025-12-25T05:45:05+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T05:45:05+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 13be4cd370ccf529b9cd16a916fe0609: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f8ccecc6b3d987fa30a96f634b4f464f: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job d64ecabe0c0c91a12ab7500ed6bc013a: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 27e8e9149fa5c2ab128faeb85b5322b5: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 1803b66e93f0de99d284332c28def945: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 2f46f253a42dacc429eecd9f898156d5: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job a55654a140b57727788560424bf45090: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job ca51204551997d9ac23d7eacb69499e2: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job ee7cc4f982d1e3e58dc271da40d9499f: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 25a2f6161c557e32728f794e543a4c9c: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 2bc174e065e328511adef1cc10b4d7e1: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 9a97a0cce7b4302736742a2ace07cf1b: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 79b5dc314cd9860ec0295b15b8170024: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 7e775c33eabfa3164bcd1db3274bec6a: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job cf7e45a972393863e67d04a4be73b382: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f36477375fda9f5295d9c4a48b27f1f9: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 7599066c436250fc1431904dc53e6ffe: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 71e6343fd838c815d05220178aeec291: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job a32d1d53427860779724edab5fbee1d3: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f33b84577be4f62951dba5abad15c6da: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job a2c84aada219f30809382d026badb6f7: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 3b397f90f0e1a3cf14c5d06219c227d3: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job b1c2a048e6957800ca80e90bfe8b0971: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 8174821376f9f035204c583b345b581a: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 06685d0e9ff8213b808b9e738d3f2df6: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f3680c924ec48b4eedb6ea2aaa3c918c: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 6bd451acd24b931467b36b79afa97e4f: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 59bcad6760e2f534c0d5eb9eafbd90d8: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:06+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 1b3297ec506f433046bb39913676fbe6: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job ea9ab2b4038a8723bd35179b55d0ae32: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 89282ca26b9d5a95cbcd11a628aac69c: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 47bd192dd2c93aab66ca07764e1b2305: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job e0eca783b3be6e993d01da212cb611db: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 450858885b2d2c893b449f936eb6c8a6: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 8dbdecc5d4573652d44ecac112bb7970: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 134b39935ad53d4b147ac5bdf90897de: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f00d28c403ee6da9890cb32671ddead5: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 963b5d2e1ca5839e3b13f4a56bc45e17: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 3d67457441714b1f109d1c39dcc3fa54: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 2a4a536186e339ff6de7a91c25b07c59: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f62560bc88570dbce03866b7c0a3533e: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 9af54a19ec4f828e1a2ca98839820d9f: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job fcca9022259c823c3f5956d0a18e435a: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f693f7b211844ca121423127134db3c2: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job b7d541deb08d097fe5aee9bdfe28310e: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 0069e58951b057a10e66613c1a96edfb: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 681624790d37355c7d14374826c0d320: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 09a92dbd97e40fbc54a1b33f57f0f82b: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 16d3ee2df7776a80a463b89108671a7c: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 52a442d07c43fb9306b9ae33c93d3ef1: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 7e856a9bb40cc514f735ac237ec5e26a: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 2c2624e421088eba1e59964e5b2a7533: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job e78f1cce2900c72ed13cce9e15417277: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job ebe7e1b1db8f344f4b5f80b4c7c5298a: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 6d515ba96006a3c9c37a801614409ca9: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job c100e34d731da9ed47206855b2cb9e23: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 519fdab40deb67fcb5ea738ba7775d86: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 046e8471d9e6da101741b1e4057f10e2: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 7366a042a40b1ba4e8e14a05eceecff2: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job f8b43eb12f8a1b7be137fe93372ea6ca: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 36bf0d4f466e36646d805c862600888b: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 4d2bb128f7b866c102ba2cb495e00ff3: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job bba0e51a850d1e9a09fd3e3e38d843a8: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 90e725b6581c25dd4f52ed418e07c28e: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 453d9ce9f757d85cb0189c6da40c03db: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 12f2f7a624e5473d88488e5c9f480aa3: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 1cb2e27ec1c02bb4a06d1bd8b4c44121: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job cb00483cfaceebd0d33312e1c649380a: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 799568ac754f92a0cc557f05af424b1f: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 86acb7d9c810316524422358ff14dd55: Cannot create the API instance because the access token is missing.
+2025-12-25T05:45:07+00:00 NOTICE There was an error trying sync products using the Catalog Batch API for job 12e6e273cc44ef4af835ab376c1ffae1: Cannot create the API instance because the access token is missing.
+2025-12-25T05:48:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T05:48:55+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T05:52:28+00:00 NOTICE Unable to detect valid feed configuration: No catalog ID
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:52:28+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-12-25T05:52:28+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id(Object(WP_Term))
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array('facebook_for_wo...', Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action(51599, 'WP Cron')
+#9 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run('WP Cron')
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#13 /home1/pydrqhmy/thegiftara.com/wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#14 {main}
+2025-12-25T05:55:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T05:57:07+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:01:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:06:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:10:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:17:18+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:20:36+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:26:38+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:32:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:39:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:41:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T06:53:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:00:04+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:00:08+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:12:38+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:22:42+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:22:42+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T07:22:42+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T07:25:51+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:36:00+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:36:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:51:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T07:52:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:02:08+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:08:18+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:08:48+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:21:02+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:22:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:22:44+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T08:22:44+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T08:27:00+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:36:56+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:53:00+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T08:59:17+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:14:58+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:20:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:20:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:20:35+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:31:07+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:31:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:38:47+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:49:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:55:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T09:55:36+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:08:25+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:09:51+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:10:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:22:06+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:22:36+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T10:22:36+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T10:34:16+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:34:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:35:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:40:57+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:48:08+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:54:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T10:56:02+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T11:03:53+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T11:05:45+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T11:10:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T11:15:36+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T11:22:51+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T11:44:09+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T11:50:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T12:14:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T12:22:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T12:25:05+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T12:25:05+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T12:25:05+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T12:28:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T12:31:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T12:36:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T12:52:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T13:14:21+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T13:14:21+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T13:22:42+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:19:25+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:22:53+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:22:53+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T14:22:53+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T14:27:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:28:06+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:32:36+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:37:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:46:36+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T14:57:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T15:01:52+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T15:07:36+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T15:15:09+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T15:15:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T15:30:22+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T15:31:04+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:02:26+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:03:13+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:14:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:19:13+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:19:13+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:24:52+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T16:24:52+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T16:24:52+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:31:15+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T16:31:15+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:01:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:08:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:20:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:24:18+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:26:55+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:38:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:53:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T17:57:17+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T18:07:33+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T18:22:52+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T18:53:15+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T18:53:15+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T18:53:15+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T18:53:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T18:57:46+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T19:05:59+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T19:22:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T19:24:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T19:35:38+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T19:56:12+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:02:30+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:04:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:15:38+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:21:10+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:21:10+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T20:21:10+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T20:21:10+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:24:06+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:35:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T20:53:07+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:01:18+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:03:55+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:12:55+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:24:12+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:24:12+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T21:24:12+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T21:30:45+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:50:01+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:52:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T21:52:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:01:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:22:53+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:31:16+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:31:16+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T22:31:16+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2025-12-25T22:34:53+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:34:53+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:40:16+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:40:16+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:46:58+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T22:46:58+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:17:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:17:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:19:30+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:19:30+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:26:47+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:26:47+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:30:42+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:30:42+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:40:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:40:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:47:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:47:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:49:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:49:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:58:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-12-25T23:58:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []

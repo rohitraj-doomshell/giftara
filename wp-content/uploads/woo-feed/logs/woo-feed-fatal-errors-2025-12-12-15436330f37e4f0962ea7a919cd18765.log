@@ -1,0 +1,21 @@
+2025-12-12T13:36:07+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /home1/pydrqhmy/thegiftara.com/wp-content/plugins/google-listings-and-ads/src/Proxies/WC.php:241
+Stack trace:
+#0 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/google-listings-and-ads/src/Google/GlobalSiteTag.php(623): Automattic\WooCommerce\GoogleListingsAndAds\Proxies\WC->get_customer_details()
+#1 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/google-listings-and-ads/src/Google/GlobalSiteTag.php(288): Automattic\WooCommerce\GoogleListingsAndAds\Google\GlobalSiteTag->get_enhanced_conversion_tag()
+#2 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/google-listings-and-ads/src/Google/GlobalSiteTag.php(258): Automattic\WooCommerce\GoogleListingsAndAds\Google\GlobalSiteTag->display_global_site_tag('AW-925495631')
+#3 /home1/pydrqhmy/thegiftara.com/wp-content/plugins/google-listings-and-ads/src/Google/GlobalSiteTag.php(117): Automattic\WooCommerce\GoogleListingsAndAds\Google\GlobalSiteTag->activate_global_site_tag('AW-925495631')
+#4 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(341): Automattic\WooCommerce\GoogleListingsAndAds\Google\GlobalSiteTag->Automattic\WooCommerce\GoogleListingsAndAds\Google\{closure}('')
+#5 /home1/pydrqhmy/thegiftara.com/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#6 /home1/pydrqhmy/thegiftara.com/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#7 /home1/pydrqhmy/thegiftara.com/wp-includes/general-template.php(3197): do_action('wp_head')
+#8 /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/header.php(27): wp_head()
+#9 /home1/pydrqhmy/thegiftara.com/wp-includes/template.php(814): require_once('/home1/pydrqhmy...')
+#10 /home1/pydrqhmy/thegiftara.com/wp-includes/template.php(749): load_template('/home1/pydrqhmy...', true, Array)
+#11 /home1/pydrqhmy/thegiftara.com/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#12 /home1/pydrqhmy/thegiftara.com/wp-content/themes/twentytwenty-child/404.php(10): get_header()
+#13 /home1/pydrqhmy/thegiftara.com/wp-includes/template-loader.php(125): include('/home1/pydrqhmy...')
+#14 /home1/pydrqhmy/thegiftara.com/wp-blog-header.php(19): require_once('/home1/pydrqhmy...')
+#15 /home1/pydrqhmy/thegiftara.com/index.php(17): require('/home1/pydrqhmy...')
+#16 {main}
+  thrown in /home1/pydrqhmy/thegiftara.com/wp-content/plugins/google-listings-and-ads/src/Proxies/WC.php on line 241
+

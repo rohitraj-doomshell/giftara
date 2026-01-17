@@ -1,0 +1,81 @@
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 9223372036854775807 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 160 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 575 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 633 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 645 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:16986702736798279817 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:gla_160 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:gla_575 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:gla_633 not found in this WooCommerce store.
+2026-01-13T02:05:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:gla_645 not found in this WooCommerce store.
+2026-01-13T10:33:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1463): ["Premium Products"].
+2026-01-13T10:33:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1463) because it does not pass validation: {"woocommerce_id":1463,"errors":["[description] This value should not be blank.","[imageLink] This value should not be blank.","[price.value] Product must have a valid price and currency."]}
+2026-01-13T11:44:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1443): ["All","Stainless Steel Water Bottle","Under 500","Water Bottles"].
+2026-01-13T11:44:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1443) because it does not pass validation: {"woocommerce_id":1443,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-12.png\" is not a valid name."]}
+2026-01-13T11:48:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1443): ["All","Stainless Steel Water Bottle","Under 500","Water Bottles"].
+2026-01-13T11:48:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1443) because it does not pass validation: {"woocommerce_id":1443,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-12.png\" is not a valid name."]}
+2026-01-13T11:55:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1440): ["All","Stainless Steel Water Bottle","Under 500","Water Bottles"].
+2026-01-13T11:55:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1440) because it does not pass validation: {"woocommerce_id":1440,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-11.png\" is not a valid name."]}
+2026-01-13T12:18:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1468): ["Premium Products"].
+2026-01-13T12:18:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1468) because it does not pass validation: {"woocommerce_id":1468,"errors":["[description] This value should not be blank.","[imageLink] This value should not be blank.","[price] This value should not be null."]}
+2026-01-13T12:20:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1438): ["All","Budget 2000-3000","Laptop Bags"].
+2026-01-13T12:20:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1438) because it does not pass validation: {"woocommerce_id":1438,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-10.png\" is not a valid name."]}
+2026-01-13T12:24:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1433): ["All","Office Diary","Pens","Premium Products","Under 500"].
+2026-01-13T12:24:22+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+2026-01-13T12:24:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1433): ["All","Office Diary","Pens","Premium Products","Under 500"].
+2026-01-13T12:24:23+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+2026-01-13T12:24:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1433): ["All","Office Diary","Pens","Premium Products","Under 500"].
+2026-01-13T12:24:23+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+2026-01-13T12:26:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1470): ["Premium Products"].
+2026-01-13T12:26:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1470) because it does not pass validation: {"woocommerce_id":1470,"errors":["[description] This value should not be blank.","[imageLink] This value should not be blank.","[price] This value should not be null."]}
+2026-01-13T12:29:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1431): ["All","3 in 1 Gift Sets","KeyChain Holder","Office Diary","Pens","Under 500"].
+2026-01-13T12:29:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1431,"google_id":"online:en:IN:gla_1431"}]
+2026-01-13T12:34:11+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1412): ["Hot and Cold Vacuum Flask","All","Corporate Gift Hampers","under-1000"].
+2026-01-13T12:34:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1412,"google_id":"online:en:IN:gla_1412"}]
+2026-01-13T12:40:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1402): ["Laptop Bags","All","under-1000"].
+2026-01-13T12:40:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1402) because it does not pass validation: {"woocommerce_id":1402,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-9.png\" is not a valid name."]}
+2026-01-13T12:45:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1398): ["Laptop Bags","All","under-1000"].
+2026-01-13T12:45:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1398) because it does not pass validation: {"woocommerce_id":1398,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-8.png\" is not a valid name."]}
+2026-01-13T12:49:37+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1392): ["Laptop Bags","All","Budget 1000-1500"].
+2026-01-13T12:49:37+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1392) because it does not pass validation: {"woocommerce_id":1392,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-5.png\" is not a valid name."]}
+2026-01-13T12:54:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1390): ["Laptop Bags","All","under-1000"].
+2026-01-13T12:54:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1390) because it does not pass validation: {"woocommerce_id":1390,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-4.png\" is not a valid name."]}
+2026-01-13T12:59:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1388): ["Laptop Bags","All","under-1000"].
+2026-01-13T12:59:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1388) because it does not pass validation: {"woocommerce_id":1388,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-3.png\" is not a valid name."]}
+2026-01-13T13:07:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1386): ["Personalised Gifts","All","Home Decor","Home Lifestyle Gifts","Under 500"].
+2026-01-13T13:07:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1386,"google_id":"online:en:IN:gla_1386"}]
+2026-01-13T13:09:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1386): ["Personalised Gifts","All","Home Decor","Home Lifestyle Gifts","Under 500"].
+2026-01-13T13:09:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1386,"google_id":"online:en:IN:gla_1386"}]
+2026-01-13T13:10:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1386): ["Personalised Gifts","All","Home Decor","Home Lifestyle Gifts","Under 500"].
+2026-01-13T13:10:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1386,"google_id":"online:en:IN:gla_1386"}]
+2026-01-13T13:15:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1384): ["Personalised Gifts","All","Home Decor","Under 500"].
+2026-01-13T13:15:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1384,"google_id":"online:en:IN:gla_1384"}]
+2026-01-13T13:20:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1384): ["Personalised Gifts","All","Home Decor","Under 500"].
+2026-01-13T13:20:56+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1384,"google_id":"online:en:IN:gla_1384"}]
+2026-01-13T13:25:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1381): ["Desktop Item","All","Personalised Gifts","Phone Stand","Under 500"].
+2026-01-13T13:25:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 1381) because it does not pass validation: {"woocommerce_id":1381,"errors":["[imageLink] Product image \"PU-J-Double-Color-\u2013-Grey-is-a-premium-PU-executive-accessory-featuring-a-modern-dual-tone-design-with-a-refined-grey-finish.-Stylish-durable-and-practical-its-ideal-for-everyday-professional-u-2.png\" is not a valid name."]}
