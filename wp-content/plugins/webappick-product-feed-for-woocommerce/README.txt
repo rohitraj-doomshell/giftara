@@ -5,7 +5,7 @@ Tags: WooCommerce, Product Feed, Google Shopping, Facebook Catalog, Google listi
 Requires at least: 4.4
 Tested Up To: 6.9
 Requires PHP: 5.6
-Stable tag: 6.6.15
+Stable tag: 6.6.18
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,8 +16,6 @@ Advanced WooCommerce Feed Plugin to Generate Optimized, Error-Free Product Feeds
 🏆 **Reach millions of customers and sell faster with the optimized & error-free  Product Feed Plugin for Google Shopping, Facebook, Instagram & 130+ marketplaces—trusted by 70,000+ stores.**
 
 Get your products listed across Google Shopping, Facebook, Pinterest, Instagram, TikTok, Snapchat, eBay, Bing, PriceRunner, Rakuten, PriceSpy, Kelko, and 100+ more channels with optimized, error-free product feeds—directly from your WooCommerce store.
-
-**<a target="_blank" href="https://webappick.com/discount-deal/?utm_source=org-text-Holiday&utm_medium=free-to-pro&utm_campaign=H-Holiday&utm_id=1"> 🎉 Happy Holidays! Save BIG with up to 60% OFF using CTX Feed Pro — but hurry, the joy ends December 31st!</a>**
 
 With CTX Feed – the Best  WooCommerce Product Feed Manager Plugin – you can connect with over 100+ recognized marketplaces, search engines, affiliate sites, and price comparison platforms to maximize your product reach.
 
@@ -374,6 +372,15 @@ Using pro version:
 
 == Changelog ==
 
+= 6.6.18 (2026-01-13) =
+* Fixed: Ninja forms plugin conflict issue
+
+= 6.6.17 (2026-01-06) =
+* Removed : Happy Holiday Discount Banner
+
+= 6.6.16 (2026-01-05) =
+* Updated: Compatibility code refactor
+
 = 6.6.15 (2025-12-30) =
 * Tweak: WooCommerce version 10.4 compatibility checked
 
@@ -381,7 +388,7 @@ Using pro version:
 * Updated : Plugin Information
 
 = 6.6.13 (2025-12-16) =
-* Added : Black Friday Discount Banner
+* Added : Happy Holiday Discount Banner
 
 = 6.6.12 (2025-12-11) =
 * Added : Parent Description Attribute

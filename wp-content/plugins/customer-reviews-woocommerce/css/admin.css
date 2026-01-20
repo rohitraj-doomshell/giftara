@@ -746,6 +746,9 @@ li.select2-results__option {
 .cr-features-banner .cr-features-bnr-uls .cr-features-bnr-ul:first-of-type {
 	margin-right: 20px;
 }
+.cr-features-banner .cr-features-bnr-sec {
+	font-weight: bold;
+}
 .cr-features-banner .cr-features-bnr-other {
 	margin: 10px 0 30px 0;
 }

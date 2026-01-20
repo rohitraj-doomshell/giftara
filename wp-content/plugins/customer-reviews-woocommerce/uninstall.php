@@ -124,6 +124,7 @@ $cr_uninstall_options = array(
 	'ivole_product_feed_enable_brand',
 	'ivole_product_feed_enable_material',
 	'ivole_product_feed_enable_multipack',
+	'ivole_product_feed_enable_condition',
 	'ivole_product_feed_enable_bundle',
 	'ivole_product_feed_enable_identifier_exists',
 	'ivole_questions_answers',

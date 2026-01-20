@@ -1,15 +1,15 @@
-# Copyright (C) 2025 CusRev
+# Copyright (C) 2026 CusRev
 # This file is distributed under the GPLv3.
 msgid ""
 msgstr ""
-"Project-Id-Version: Customer Reviews for WooCommerce 5.92.0\n"
+"Project-Id-Version: Customer Reviews for WooCommerce 5.96.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/customer-reviews-woocommerce\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-12-07T14:45:20+00:00\n"
+"POT-Creation-Date: 2026-01-12T00:32:12+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.8.1\n"
 "X-Domain: customer-reviews-woocommerce\n"
@@ -70,7 +70,7 @@ msgstr ""
 
 #: includes/analytics/class-cr-reminders-log.php:361
 #: includes/reminders/class-cr-local-forms.php:301
-#: includes/reminders/class-cr-manual.php:393
+#: includes/reminders/class-cr-manual.php:395
 msgid "Error"
 msgstr ""
 
@@ -87,13 +87,13 @@ msgid "Canceled"
 msgstr ""
 
 #: includes/analytics/class-cr-reminders-log.php:382
-#: includes/google/class-cr-product-fields.php:112
-#: includes/google/class-cr-product-fields.php:256
+#: includes/google/class-cr-product-fields.php:90
+#: includes/google/class-cr-product-fields.php:259
 #: includes/misc/class-cr-admin-menu-diagnostics.php:248
 #: includes/misc/class-cr-admin-menu-diagnostics.php:340
 #: includes/qna/class-cr-admin-menu-qna.php:194
-#: includes/reminders/class-cr-manual.php:403
-#: includes/reminders/class-cr-manual.php:426
+#: includes/reminders/class-cr-manual.php:405
+#: includes/reminders/class-cr-manual.php:428
 #: includes/reviews/class-cr-admin-menu-reviews.php:245
 #: includes/reviews/class-cr-admin-menu-reviews.php:254
 #: includes/reviews/class-cr-reviews-media-meta-box.php:100
@@ -105,13 +105,13 @@ msgid "Yes"
 msgstr ""
 
 #: includes/analytics/class-cr-reminders-log.php:385
-#: includes/google/class-cr-product-fields.php:113
-#: includes/google/class-cr-product-fields.php:257
+#: includes/google/class-cr-product-fields.php:91
+#: includes/google/class-cr-product-fields.php:260
 #: includes/misc/class-cr-admin-menu-diagnostics.php:253
 #: includes/misc/class-cr-admin-menu-diagnostics.php:340
 #: includes/qna/class-cr-admin-menu-qna.php:195
-#: includes/reminders/class-cr-manual.php:404
-#: includes/reminders/class-cr-manual.php:427
+#: includes/reminders/class-cr-manual.php:406
+#: includes/reminders/class-cr-manual.php:429
 #: includes/reviews/class-cr-admin-menu-reviews.php:246
 #: includes/reviews/class-cr-admin-menu-reviews.php:255
 #: includes/reviews/class-cr-reviews-media-meta-box.php:99
@@ -123,7 +123,7 @@ msgid "No"
 msgstr ""
 
 #: includes/analytics/class-cr-reminders-log.php:397
-#: includes/reminders/class-cr-manual.php:377
+#: includes/reminders/class-cr-manual.php:379
 #: includes/settings/class-cr-settings-emails.php:113
 #: includes/settings/class-cr-settings-review-discount.php:965
 #: includes/settings/class-cr-settings-review-reminder.php:1226
@@ -135,7 +135,7 @@ msgid "Email"
 msgstr ""
 
 #: includes/analytics/class-cr-reminders-log.php:400
-#: includes/reminders/class-cr-manual.php:381
+#: includes/reminders/class-cr-manual.php:383
 msgid "WhatsApp"
 msgstr ""
 
@@ -195,25 +195,34 @@ msgstr ""
 msgid "Orders"
 msgstr ""
 
-#: includes/analytics/class-cr-reviews-top-charts.php:409
+#: includes/analytics/class-cr-reviews-top-charts.php:416
 msgid "Views"
 msgstr ""
 
-#: includes/analytics/class-cr-reviews-top-charts.php:410
+#: includes/analytics/class-cr-reviews-top-charts.php:417
 msgid "The number of times your store's products were displayed as recommendations on aggregated review forms."
 msgstr ""
 
-#: includes/analytics/class-cr-reviews-top-charts.php:413
-#: includes/analytics/class-cr-reviews-top-charts.php:422
+#: includes/analytics/class-cr-reviews-top-charts.php:420
+#: includes/analytics/class-cr-reviews-top-charts.php:429
+#: includes/analytics/class-cr-reviews-top-charts.php:438
 msgid "Product Recommendations on Review Forms"
 msgstr ""
 
-#: includes/analytics/class-cr-reviews-top-charts.php:418
+#: includes/analytics/class-cr-reviews-top-charts.php:425
 msgid "Clicks"
 msgstr ""
 
-#: includes/analytics/class-cr-reviews-top-charts.php:419
+#: includes/analytics/class-cr-reviews-top-charts.php:426
 msgid "The number of times customers clicked on your store's product recommendations shown on aggregated review forms."
+msgstr ""
+
+#: includes/analytics/class-cr-reviews-top-charts.php:434
+msgid "Sales"
+msgstr ""
+
+#: includes/analytics/class-cr-reviews-top-charts.php:435
+msgid "Revenue attributed to purchases influenced by product recommendations shown on aggregated review forms."
 msgstr ""
 
 #: includes/blocks/class-cr-all-reviews.php:498
@@ -356,7 +365,7 @@ msgstr ""
 #: includes/blocks/class-cr-all-reviews.php:1243
 #: includes/qna/class-cr-admin-menu-qna.php:199
 #: includes/qna/class-cr-qna.php:183
-#: includes/reminders/class-cr-manual.php:420
+#: includes/reminders/class-cr-manual.php:422
 #: includes/reviews/class-cr-admin-menu-reviews.php:250
 #: includes/reviews/class-cr-reviews.php:449
 msgid "OK"
@@ -828,102 +837,116 @@ msgid "Error: no products found for the XML Product Feed. Please check exclusion
 msgstr ""
 
 #: includes/google/class-cr-product-feed-attributes.php:40
-#: includes/google/class-cr-product-feed-attributes.php:105
+#: includes/google/class-cr-product-feed-attributes.php:108
 msgid "Product Attributes"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:107
+#: includes/google/class-cr-product-feed-attributes.php:110
 msgid "Specify mapping of WooCommerce product fields to Google Shopping product attributes that might be required in certain countries for some product categories."
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:112
+#: includes/google/class-cr-product-feed-attributes.php:115
 msgid "Bundle"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:113
+#: includes/google/class-cr-product-feed-attributes.php:116
 msgid "Add a bundle attribute to WooCommerce products (on 'Inventory' tab). Use the bundle attribute to indicate that you have created a bundle: a main product that you have grouped with other, different products, sold together as one package for a single price."
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:120
-#: includes/google/class-cr-product-fields.php:136
-#: includes/google/class-cr-product-fields.php:278
+#: includes/google/class-cr-product-feed-attributes.php:123
+#: includes/google/class-cr-product-fields.php:117
+#: includes/google/class-cr-product-fields.php:281
 msgid "Material"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:121
+#: includes/google/class-cr-product-feed-attributes.php:124
 msgid "Add a material attribute to WooCommerce products (on 'General' tab). Use the material attribute to describe the main fabric or material that your product is made of."
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:128
-#: includes/google/class-cr-product-fields.php:93
-#: includes/google/class-cr-product-fields.php:230
+#: includes/google/class-cr-product-feed-attributes.php:131
+#: includes/google/class-cr-product-fields.php:71
+#: includes/google/class-cr-product-fields.php:233
 msgid "Multipack"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:129
+#: includes/google/class-cr-product-feed-attributes.php:132
 msgid "Add a multipack attribute to WooCommerce products (on 'Inventory' tab). The multipack attribute refers to multiple identical products that you, the retailer, combine for sale. If you have created a multipack grouping several identical products together, then use the mulitpack attribute to indicate how many products you have grouped together."
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:173
+#: includes/google/class-cr-product-feed-attributes.php:139
+#: includes/google/class-cr-product-fields.php:129
+#: includes/google/class-cr-product-fields.php:299
+msgid "Condition"
+msgstr ""
+
+#: includes/google/class-cr-product-feed-attributes.php:140
+msgid "Add a condition attribute to WooCommerce products (on 'General' tab). The condition attribute refers to condition of products you are selling. It is an optional field for new products but required for used and refurbished products."
+msgstr ""
+
+#: includes/google/class-cr-product-feed-attributes.php:184
 #: includes/google/class-cr-product-feed-identifiers.php:174
 msgid "WooCommerce Product Field"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:174
+#: includes/google/class-cr-product-feed-attributes.php:185
 #: includes/google/class-cr-product-feed-identifiers.php:175
 msgid "Select a product field that should be mapped"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:179
+#: includes/google/class-cr-product-feed-attributes.php:190
 msgid "Google Shopping Attribute"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:180
+#: includes/google/class-cr-product-feed-attributes.php:191
 msgid "Product attributes required by Google Shopping in some countries"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:307
+#: includes/google/class-cr-product-feed-attributes.php:329
 #: includes/google/class-cr-product-feed-identifiers.php:197
 msgid "Product ID"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:308
+#: includes/google/class-cr-product-feed-attributes.php:330
 msgid "Product SKU"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:309
+#: includes/google/class-cr-product-feed-attributes.php:331
 msgid "Product Name"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:369
+#: includes/google/class-cr-product-feed-attributes.php:391
 msgid "Product GTIN"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:370
+#: includes/google/class-cr-product-feed-attributes.php:392
 msgid "Product MPN"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:371
+#: includes/google/class-cr-product-feed-attributes.php:393
 msgid "Product Brand"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:372
+#: includes/google/class-cr-product-feed-attributes.php:394
 msgid "Product Material"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:373
+#: includes/google/class-cr-product-feed-attributes.php:395
 msgid "Product Multipack"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:374
+#: includes/google/class-cr-product-feed-attributes.php:396
 msgid "Product Bundle"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:375
+#: includes/google/class-cr-product-feed-attributes.php:397
 msgid "Global Unique ID"
 msgstr ""
 
-#: includes/google/class-cr-product-feed-attributes.php:377
+#: includes/google/class-cr-product-feed-attributes.php:398
+msgid "Product Condition"
+msgstr ""
+
+#: includes/google/class-cr-product-feed-attributes.php:400
 msgid "Product Tag"
 msgstr ""
 
@@ -1015,8 +1038,8 @@ msgstr ""
 #: includes/google/class-cr-product-feed-identifiers.php:94
 #: includes/google/class-cr-product-feed-identifiers.php:210
 #: includes/google/class-cr-product-feed-reviews.php:163
-#: includes/google/class-cr-product-fields.php:50
-#: includes/google/class-cr-product-fields.php:180
+#: includes/google/class-cr-product-fields.php:28
+#: includes/google/class-cr-product-fields.php:183
 msgid "GTIN"
 msgstr ""
 
@@ -1027,8 +1050,8 @@ msgstr ""
 #: includes/google/class-cr-product-feed-identifiers.php:102
 #: includes/google/class-cr-product-feed-identifiers.php:223
 #: includes/google/class-cr-product-feed-reviews.php:176
-#: includes/google/class-cr-product-fields.php:61
-#: includes/google/class-cr-product-fields.php:194
+#: includes/google/class-cr-product-fields.php:39
+#: includes/google/class-cr-product-fields.php:197
 msgid "MPN"
 msgstr ""
 
@@ -1039,8 +1062,8 @@ msgstr ""
 #: includes/google/class-cr-product-feed-identifiers.php:110
 #: includes/google/class-cr-product-feed-identifiers.php:236
 #: includes/google/class-cr-product-feed-reviews.php:202
-#: includes/google/class-cr-product-fields.php:72
-#: includes/google/class-cr-product-fields.php:212
+#: includes/google/class-cr-product-fields.php:50
+#: includes/google/class-cr-product-fields.php:215
 msgid "Brand"
 msgstr ""
 
@@ -1049,8 +1072,8 @@ msgid "Add a Brand field to WooCommerce products (on 'Inventory' tab). This fiel
 msgstr ""
 
 #: includes/google/class-cr-product-feed-identifiers.php:118
-#: includes/google/class-cr-product-fields.php:83
-#: includes/google/class-cr-product-fields.php:291
+#: includes/google/class-cr-product-fields.php:61
+#: includes/google/class-cr-product-fields.php:319
 msgid "identifier_exists"
 msgstr ""
 
@@ -1313,83 +1336,113 @@ msgid_plural "<strong>%1d</strong> product reviews (1 star)"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/google/class-cr-product-fields.php:50
-#: includes/google/class-cr-product-fields.php:180
+#: includes/google/class-cr-product-fields.php:28
+#: includes/google/class-cr-product-fields.php:183
 msgid "Global Trade Item Number"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:52
-#: includes/google/class-cr-product-fields.php:182
+#: includes/google/class-cr-product-fields.php:30
+#: includes/google/class-cr-product-fields.php:185
 msgid "GTIN refers to a Global Trade Item Number, a globally unique number used to identify trade items, products, or services that can be purchased. GTIN is also an umbrella term that refers to UPC, EAN, JAN, and ISBN."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:61
-#: includes/google/class-cr-product-fields.php:194
+#: includes/google/class-cr-product-fields.php:39
+#: includes/google/class-cr-product-fields.php:197
 msgid "Manufacturer Part Number"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:63
-#: includes/google/class-cr-product-fields.php:196
+#: includes/google/class-cr-product-fields.php:41
+#: includes/google/class-cr-product-fields.php:199
 msgid "MPN refers to a Manufacturer Part Number, a number that uniquely identifies the product to its manufacturer."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:74
-#: includes/google/class-cr-product-fields.php:214
+#: includes/google/class-cr-product-fields.php:52
+#: includes/google/class-cr-product-fields.php:217
 msgid "The brand of the product."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:83
+#: includes/google/class-cr-product-fields.php:61
 msgid "identifier_exists attribute for Google Shopping"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:84
+#: includes/google/class-cr-product-fields.php:62
 msgid "Enable the checkbox to add \"identifier_exists = no\" in Google Shopping feed for this product."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:93
-#: includes/google/class-cr-product-fields.php:230
+#: includes/google/class-cr-product-fields.php:71
+#: includes/google/class-cr-product-fields.php:233
 msgid "Multipack attribute for Google Shopping"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:95
+#: includes/google/class-cr-product-fields.php:73
 msgid "If this product is a multipack, use the multipack attribute to indicate how many products you’ve grouped together."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:114
-#: includes/google/class-cr-product-fields.php:258
+#: includes/google/class-cr-product-fields.php:92
+#: includes/google/class-cr-product-fields.php:261
 msgid "Default"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:116
-#: includes/google/class-cr-product-fields.php:260
+#: includes/google/class-cr-product-fields.php:94
+#: includes/google/class-cr-product-fields.php:263
 msgid "is_bundle attribute for Google Shopping"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:116
-#: includes/google/class-cr-product-fields.php:260
+#: includes/google/class-cr-product-fields.php:94
+#: includes/google/class-cr-product-fields.php:263
 msgid "is_bundle"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:118
-#: includes/google/class-cr-product-fields.php:262
+#: includes/google/class-cr-product-fields.php:96
+#: includes/google/class-cr-product-fields.php:265
 msgid "If this product is a bundle, use the is_bundle attribute to flag it as bundle in the XML Product Feed for Google Shopping."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:136
-#: includes/google/class-cr-product-fields.php:278
+#: includes/google/class-cr-product-fields.php:117
+#: includes/google/class-cr-product-fields.php:281
 msgid "Material attribute for Google Shopping"
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:138
-#: includes/google/class-cr-product-fields.php:280
+#: includes/google/class-cr-product-fields.php:119
+#: includes/google/class-cr-product-fields.php:283
 msgid "Use the material attribute to describe the main fabric or material that your product is made of."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:232
+#: includes/google/class-cr-product-fields.php:129
+#: includes/google/class-cr-product-fields.php:299
+msgid "Condition attribute for Google Shopping"
+msgstr ""
+
+#: includes/google/class-cr-product-fields.php:131
+#: includes/google/class-cr-product-fields.php:301
+msgid "Use the condition attribute to describe condition (new, used or refurbished) of products."
+msgstr ""
+
+#: includes/google/class-cr-product-fields.php:133
+#: includes/google/class-cr-product-fields.php:303
+msgid "Not specified"
+msgstr ""
+
+#: includes/google/class-cr-product-fields.php:134
+#: includes/google/class-cr-product-fields.php:304
+msgid "New"
+msgstr ""
+
+#: includes/google/class-cr-product-fields.php:135
+#: includes/google/class-cr-product-fields.php:305
+msgid "Used"
+msgstr ""
+
+#: includes/google/class-cr-product-fields.php:136
+#: includes/google/class-cr-product-fields.php:306
+msgid "Refurbished"
+msgstr ""
+
+#: includes/google/class-cr-product-fields.php:235
 msgid "If this product is a multipack, then use the multipack attribute to indicate how many products you’ve grouped together."
 msgstr ""
 
-#: includes/google/class-cr-product-fields.php:290
+#: includes/google/class-cr-product-fields.php:318
 msgid "Enable the option to add \"identifier_exists = no\" in Google Shopping feed for this variation."
 msgstr ""
 
@@ -1507,7 +1560,7 @@ msgstr ""
 #: includes/import-export/class-cr-import-qna.php:140
 #: includes/import-export/class-cr-import-reviews.php:147
 #: includes/qna/class-cr-admin-menu-qna.php:196
-#: includes/reminders/class-cr-manual.php:414
+#: includes/reminders/class-cr-manual.php:416
 #: includes/reminders/class-cr-reminders-list-table.php:194
 #: includes/reminders/class-cr-reminders-list-table.php:399
 #: includes/reviews/class-cr-admin-menu-reviews.php:247
@@ -2564,221 +2617,221 @@ msgid "If you would like to send a review reminder manually, please set the orde
 msgstr ""
 
 #: includes/reminders/class-cr-manual.php:129
-#: includes/reminders/class-cr-manual.php:454
-#: includes/reminders/class-cr-manual.php:569
-#: includes/reminders/class-cr-manual.php:667
-#: includes/reminders/class-cr-manual.php:737
+#: includes/reminders/class-cr-manual.php:456
+#: includes/reminders/class-cr-manual.php:571
+#: includes/reminders/class-cr-manual.php:669
+#: includes/reminders/class-cr-manual.php:739
 msgid "A security token expired, please refresh the page and try again."
 msgstr ""
 
 #: includes/reminders/class-cr-manual.php:139
-#: includes/reminders/class-cr-manual.php:464
-#: includes/reminders/class-cr-manual.php:578
-#: includes/reminders/class-cr-manual.php:677
-#: includes/reminders/class-cr-manual.php:747
+#: includes/reminders/class-cr-manual.php:466
+#: includes/reminders/class-cr-manual.php:580
+#: includes/reminders/class-cr-manual.php:679
+#: includes/reminders/class-cr-manual.php:749
 msgid "Your user account does not have permissions for sending review reminders."
 msgstr ""
 
 #: includes/reminders/class-cr-manual.php:148
-#: includes/reminders/class-cr-manual.php:473
-#: includes/reminders/class-cr-manual.php:589
-#: includes/reminders/class-cr-manual.php:689
-#: includes/reminders/class-cr-manual.php:758
+#: includes/reminders/class-cr-manual.php:475
+#: includes/reminders/class-cr-manual.php:591
+#: includes/reminders/class-cr-manual.php:691
+#: includes/reminders/class-cr-manual.php:760
 msgid "Error: invalid order ID."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:175
+#: includes/reminders/class-cr-manual.php:177
 msgid "Error: a review reminder could not be sent because reviews(s) have already been collected with a WordPress mailer for this order."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:184
-#: includes/reminders/class-cr-manual.php:530
+#: includes/reminders/class-cr-manual.php:186
+#: includes/reminders/class-cr-manual.php:532
 msgid "Error: a review reminder could not be sent because reviews(s) have already been collected with a CusRev mailer for this order."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:230
-#: includes/reminders/class-cr-manual.php:335
-#: includes/reminders/class-cr-manual.php:634
+#: includes/reminders/class-cr-manual.php:232
+#: includes/reminders/class-cr-manual.php:337
+#: includes/reminders/class-cr-manual.php:636
 msgid "No reminders sent"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:234
-#: includes/reminders/class-cr-manual.php:715
+#: includes/reminders/class-cr-manual.php:236
+#: includes/reminders/class-cr-manual.php:717
 msgid " reminder(s) sent"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:236
-#: includes/reminders/class-cr-manual.php:307
-#: includes/reminders/class-cr-manual.php:320
-#: includes/reminders/class-cr-manual.php:717
+#: includes/reminders/class-cr-manual.php:238
+#: includes/reminders/class-cr-manual.php:309
+#: includes/reminders/class-cr-manual.php:322
+#: includes/reminders/class-cr-manual.php:719
 msgid "No reminders sent yet"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:254
+#: includes/reminders/class-cr-manual.php:256
 msgid "CR: a review reminder was triggered manually via email."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:256
+#: includes/reminders/class-cr-manual.php:258
 msgid "Successfully synced with CR Cron"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:266
+#: includes/reminders/class-cr-manual.php:268
 #: includes/settings/class-cr-settings-email-template.php:29
 #: includes/settings/class-cr-settings-review-reminder.php:54
 #: includes/settings/class-cr-settings-review-reminder.php:1094
 msgid "Review Reminder"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:280
+#: includes/reminders/class-cr-manual.php:282
 msgid "No customer consent received"
 msgstr ""
 
 #. translators: %d will be automatically replaced with the count of reviews
-#: includes/reminders/class-cr-manual.php:293
+#: includes/reminders/class-cr-manual.php:295
 msgid "%d review received"
 msgid_plural "%d reviews received"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/reminders/class-cr-manual.php:299
+#: includes/reminders/class-cr-manual.php:301
 msgid "A review reminder was scheduled via CR Cron"
 msgstr ""
 
 #. translators: %s will be automatically replaced with the status name
-#: includes/reminders/class-cr-manual.php:310
-#: includes/reminders/class-cr-manual.php:323
+#: includes/reminders/class-cr-manual.php:312
+#: includes/reminders/class-cr-manual.php:325
 msgid "A review reminder will be scheduled after the status is set to %s"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:313
-#: includes/reminders/class-cr-manual.php:326
+#: includes/reminders/class-cr-manual.php:315
+#: includes/reminders/class-cr-manual.php:328
 msgid "Automatic review reminders are disabled"
 msgstr ""
 
 #. translators: %d will be automatically replaced with the count of review reminders
-#: includes/reminders/class-cr-manual.php:333
-#: includes/reminders/class-cr-manual.php:640
+#: includes/reminders/class-cr-manual.php:335
+#: includes/reminders/class-cr-manual.php:642
 msgid "%d reminder sent"
 msgid_plural "%d reminders sent"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/reminders/class-cr-manual.php:343
+#: includes/reminders/class-cr-manual.php:345
 msgid "A reminder is scheduled for "
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:345
+#: includes/reminders/class-cr-manual.php:347
 msgid "WP Cron error"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:380
+#: includes/reminders/class-cr-manual.php:382
 msgid "A review invitation cannot be sent by WhatsApp because no phone number is found in the order."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:384
+#: includes/reminders/class-cr-manual.php:386
 msgid "Copy a link to an aggregated review form for this order."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:385
+#: includes/reminders/class-cr-manual.php:387
 msgid "Link"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:389
+#: includes/reminders/class-cr-manual.php:391
 msgid "Copying..."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:397
+#: includes/reminders/class-cr-manual.php:399
 msgid "Copied"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:401
+#: includes/reminders/class-cr-manual.php:403
 msgid "Has the customer provided a consent to receive a review invitation?"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:411
+#: includes/reminders/class-cr-manual.php:413
 #: includes/settings/class-cr-admin-menu-settings.php:398
 msgid "Send"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:424
+#: includes/reminders/class-cr-manual.php:426
 msgid "Have you sent the review invitation?"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:432
+#: includes/reminders/class-cr-manual.php:434
 #: includes/settings/class-cr-admin-menu-settings.php:151
 msgid "Sending..."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:433
+#: includes/reminders/class-cr-manual.php:435
 msgid "Syncing..."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:434
+#: includes/reminders/class-cr-manual.php:436
 msgid "Error code 1"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:435
+#: includes/reminders/class-cr-manual.php:437
 msgid "Error code 2 (%s)."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:436
+#: includes/reminders/class-cr-manual.php:438
 msgid "Link to the aggregated review form copied. Paste it where you need it."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:490
-#: includes/reminders/class-cr-manual.php:606
+#: includes/reminders/class-cr-manual.php:492
+#: includes/reminders/class-cr-manual.php:608
 msgid "Error: a review reminder could not be sent because reviews(s) have already been collected via a local review form for this order."
-msgstr ""
-
-#: includes/reminders/class-cr-manual.php:502
-#: includes/reminders/class-cr-manual.php:542
-msgid "Check that the customer's phone number %s is formatted correctly."
-msgstr ""
-
-#: includes/reminders/class-cr-manual.php:503
-#: includes/reminders/class-cr-manual.php:543
-msgid "Examples"
 msgstr ""
 
 #: includes/reminders/class-cr-manual.php:504
 #: includes/reminders/class-cr-manual.php:544
-msgid "Correct: %s"
+msgid "Check that the customer's phone number %s is formatted correctly."
 msgstr ""
 
 #: includes/reminders/class-cr-manual.php:505
 #: includes/reminders/class-cr-manual.php:545
+msgid "Examples"
+msgstr ""
+
+#: includes/reminders/class-cr-manual.php:506
+#: includes/reminders/class-cr-manual.php:546
+msgid "Correct: %s"
+msgstr ""
+
+#: includes/reminders/class-cr-manual.php:507
+#: includes/reminders/class-cr-manual.php:547
 msgid "Incorrect: %s"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:630
+#: includes/reminders/class-cr-manual.php:632
 msgid "CR: a review reminder was triggered manually via WhatsApp."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:647
+#: includes/reminders/class-cr-manual.php:649
 msgid "A review reminder has been successfully sent via WhatsApp."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:709
+#: includes/reminders/class-cr-manual.php:711
 msgid "CR: a review reminder was sent via WhatsApp manually."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:767
+#: includes/reminders/class-cr-manual.php:769
 msgid "Error: links to aggregated review forms can be copied only with the self-hosted setting."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:784
+#: includes/reminders/class-cr-manual.php:786
 msgid "Error: a link to an aggregated review form cannot be copied because reviews(s) have already been collected with a CusRev mailer for this order."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:802
+#: includes/reminders/class-cr-manual.php:804
 msgid "CR: a link to an aggregated review form was copied manually."
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:816
+#: includes/reminders/class-cr-manual.php:818
 msgid "Error: could not copy a link to an aggregated review form"
 msgstr ""
 
-#: includes/reminders/class-cr-manual.php:824
+#: includes/reminders/class-cr-manual.php:826
 msgid "Error: order ID is missing"
 msgstr ""
 
@@ -2951,7 +3004,7 @@ msgid "Review Title"
 msgstr ""
 
 #: includes/reviews/class-cr-admin-menu-reviews.php:518
-msgid "Author Type"
+msgid "Reviewer Type"
 msgstr ""
 
 #: includes/reviews/class-cr-admin-menu-reviews.php:533

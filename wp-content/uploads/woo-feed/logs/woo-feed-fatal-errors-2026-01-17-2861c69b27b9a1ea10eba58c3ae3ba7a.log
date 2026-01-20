@@ -1,0 +1,16 @@
+2026-01-17T12:28:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/src/Blocks/BlockTypes/ProductFilterRemovableChips.php on line 1
+
+2026-01-17T12:28:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/src/Blocks/BlockTypes/ProductFilterRemovableChips.php on line 1
+
+2026-01-17T12:30:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/assets/client/blocks/blocks-json.php on line 471
+
+2026-01-17T12:30:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/assets/client/blocks/blocks-json.php on line 927
+
+2026-01-17T12:39:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/assets/client/blocks/blocks-json.php on line 5
+
+2026-01-17T12:39:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/assets/client/blocks/blocks-json.php on line 5
+
+2026-01-17T12:40:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/src/Blocks/BlockTypes/OrderConfirmation/BillingAddress.php on line 43
+
+2026-01-17T12:41:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /var/www/html/doomshell/webroot/giftara/wp-content/plugins/woocommerce/assets/client/blocks/blocks-json.php on line 5
+

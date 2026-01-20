@@ -4,7 +4,7 @@ Tags: woocommerce, review plugin, review reminder, customer reviews, review for 
 Requires at least: 4.5
 Tested up to: 6.9
 Requires PHP: 7.2
-Stable tag: 5.94.0
+Stable tag: 5.96.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl.html
 
@@ -234,6 +234,11 @@ If you would like to change how reviews are sorted on product pages, it is possi
 
 == Changelog ==
 
+= 5.96.0 =
+* New feature: 'condition' attribute support for Google Shopping product XML feed
+* Improvement: reduced number of option checks on page load
+= 5.95.0 =
+* Improvement: reviews dashboard in admin console displays revenue attributed to purchases influenced by product recommendations shown on aggregated review forms
 = 5.94.0 =
 * Bug fix: vulnerability in Ajax requests for local aggregated review forms
 = 5.93.1 =

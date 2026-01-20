@@ -1,0 +1,9 @@
+2026-01-19T09:52:37+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2026-01-19T09:52:37+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /var/www/html/doomshell/webroot/giftara/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /var/www/html/doomshell/webroot/giftara/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(65): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /var/www/html/doomshell/webroot/giftara/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->on_create_or_update_product_wc_category_callback()
+#3 /var/www/html/doomshell/webroot/giftara/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#4 /var/www/html/doomshell/webroot/giftara/wp-includes/plugin.php(522): WP_Hook->do_action()
+#5 /var/www/html/doomshell/webroot/giftara/wp-includes/taxonomy.php(3489): do_action()
+#6 /var/www/html/doomshell/webroot/giftara/wp-admin/edit-tags.php(183): wp_update_term()
+#7 {main}

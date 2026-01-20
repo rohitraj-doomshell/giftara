@@ -515,7 +515,7 @@ if ( ! class_exists( 'Ivole_Reviews_Admin_Menu' ) ):
 				if ( $rating || CR_Replies::isReplyForReview( $comment ) ) {
 					add_meta_box(
 						'cr_reviewer_meta_box',
-						__( 'Author Type', 'customer-reviews-woocommerce' ),
+						__( 'Reviewer Type', 'customer-reviews-woocommerce' ),
 						array( $this, 'render_reviewer_meta_box' ),
 						$post_type,
 						'normal',

@@ -1,3 +1,0 @@
-2025-12-21T02:43:36+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\GoogleServiceProvider::handle_unauthorized_error Client error: `POST https://api.woocommerce.com/google/google-mc/content/v2.1/5564815060/reports/search` resulted in a `401 Unauthorized` response:
-{"statusCode":401,"error":"Unauthorized","message":"Invalid credentials","attributes":{"error":"Invalid credentials"}}
-2025-12-21T02:43:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\PriceBenchmarks::update_price_benchmarks Please reconnect your Jetpack account.

@@ -22,17 +22,28 @@ define('DISABLE_WP_CRON', true);
  */
 // ** Database settings - You can get this info from your web host ** //
 /** Database settings for local XAMPP */
-define( 'DB_NAME', 'giftara' );     // Your local database name
-define( 'DB_USER', 'root' );              // Default XAMPP user
-define( 'DB_PASSWORD', '' );              // Default XAMPP password is blank
-define( 'DB_HOST', 'localhost' );         // Localhost server
-define( 'DB_CHARSET', 'utf8mb4' );
-define( 'DB_COLLATE', '' );
+/** The name of the database for WordPress */
+define('DB_NAME', 'giftara');
+/** MySQL database username */
+define('DB_USER', 'masterserver');
+/** MySQL database password */
+define('DB_PASSWORD', 'masterserver@2025~');
+/** MySQL hostname */
+define('DB_HOST', 'localhost');
+/** Database Charset to use in creating database tables. */
+define('DB_CHARSET', 'utf8mb4');
+/** The Database Collate type. Don't change this if in doubt. */
+define('DB_COLLATE', '');
 define('FS_METHOD', 'direct');
 
-/** Force Local URLs */
-define( 'WP_HOME', 'http://localhost/giftara' );
-define( 'WP_SITEURL', 'http://localhost/giftara' );
+define('WP_MEMORY_LIMIT', '256M');
+define('WP_MAX_MEMORY_LIMIT', '256M');
+
+/* That's all, stop editing! Happy publishing. */
+
+
+define( 'WP_HOME', 'https://staging.doomshell.com/giftara' );
+define( 'WP_SITEURL', 'https://staging.doomshell.com/giftara' );
 /**#@+
  * Authentication unique keys and salts.
  *
@@ -78,9 +89,9 @@ $table_prefix = 'wp_';
  *
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
-define('WP_DEBUG', false);
-define('WP_DEBUG_DISPLAY', false);
-define('WP_DEBUG_LOG', false);
+define('WP_DEBUG', true);
+// define('WP_DEBUG_DISPLAY', false);
+// define('WP_DEBUG_LOG', false);
 /* Add any custom values between this line and the "stop editing" line. */
 /* That's all, stop editing! Happy publishing. */
 /** Absolute path to the WordPress directory. */

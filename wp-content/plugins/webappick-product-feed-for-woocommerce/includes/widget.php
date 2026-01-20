@@ -71,19 +71,19 @@ if ( ! function_exists('webappick_dashboard_widget_render') ) {
             esc_html__('Leverage dynamic attribute', 'woo-feed')
         ];
 
-        //if( !\CTXFeed\V5\Common\Helper::is_pro() ) { ?>
-            <!--a target="_blank" href="https://discoplugin.com/?utm_source=CTX&utm_medium=Feed-dSboard&utm_campaign=Banner&utm_id=1">
-                <div class="woo-feed-widget-banner-disco-free"> </div>
-            </a>
-            <hr-->
-        <?php //}
-
         if( !\CTXFeed\V5\Common\Helper::is_pro() ) { ?>
-           <a target="_blank" href="https://webappick.com/discount-deal/?utm_source=wp-dashboard-H-Holiday&utm_medium=free-to-pro&utm_campaign=H-Holiday&utm_id=1">
-                <div class="woo-feed-widget-banner-discount-free"> </div>
+            <a target="_blank" href="https://discoplugin.com/?utm_source=CTX&utm_medium=Feed-dSboard&utm_campaign=Banner&utm_id=1">
+                <div class="woo-feed-widget-banner-disco-free"> </div>
             </a>
             <hr>
         <?php }
+
+        //if( !\CTXFeed\V5\Common\Helper::is_pro() ) { ?>
+           <!--a target="_blank" href="https://webappick.com/discount-deal/?utm_source=wp-dashboard-H-Holiday&utm_medium=free-to-pro&utm_campaign=H-Holiday&utm_id=1">
+                <div class="woo-feed-widget-banner-discount-free"> </div>
+            </a>
+            <hr-->
+        <?php //}
 
         // If there are posts.
         if ( ! empty( $posts ) ) {

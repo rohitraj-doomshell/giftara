@@ -4,7 +4,7 @@ Tags: llm, ai, seo, rankmath, yoast, seopress, aioseo
 Requires at least: 5.8
 Tested up to: 6.8.3
 Requires PHP: 7.2
-Stable tag: 8.2.3
+Stable tag: 8.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -93,6 +93,14 @@ No. All telemetry is privacy-first. Local logs remain on your site. If you opt i
 
 
 == Changelog ==
+
+= 8.2.4 =
+
+🛠 Improvement: Gravity Forms exclusion control
+
+• Added an option to **exclude Gravity Forms form fields from the generated llms.txt output.
+• When disabled, all Gravity Forms markup (`<form id="gform_...">`, wrappers, and fields) is completely removed before file generation.
+• Prevents unintended exposure of form structure and field labels in llms.txt.
 
 = 8.2.3 =
 

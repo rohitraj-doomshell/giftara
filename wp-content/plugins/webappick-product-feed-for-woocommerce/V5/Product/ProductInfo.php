@@ -677,7 +677,7 @@ class ProductInfo {
 		$is_bundle = 'no';
 		$type      = $this->product->get_type();
 
-		if ( in_array( $type, array( 'bundle', 'bundled', 'yith_bundle', 'woosb' ), true ) ) {
+		if ( in_array( $type, array( 'bundle', 'bundled', 'yith_bundle', 'woosb', 'easy_product_bundle' ), true ) ) {
 			$is_bundle = 'yes';
 		}
 
