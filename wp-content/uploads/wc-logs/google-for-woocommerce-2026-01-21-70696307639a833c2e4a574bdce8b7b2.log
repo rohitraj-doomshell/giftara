@@ -1,0 +1,2 @@
+2026-01-21T07:22:34+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 9223372036854775807 not found in this WooCommerce store.
+2026-01-21T07:22:35+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:14768670350590090044 not found in this WooCommerce store.

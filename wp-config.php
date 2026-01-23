@@ -25,9 +25,9 @@ define('DISABLE_WP_CRON', true);
 /** The name of the database for WordPress */
 define('DB_NAME', 'giftara');
 /** MySQL database username */
-define('DB_USER', 'masterserver');
+define('DB_USER', 'root');
 /** MySQL database password */
-define('DB_PASSWORD', 'masterserver@2025~');
+define('DB_PASSWORD', '');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
@@ -39,11 +39,12 @@ define('FS_METHOD', 'direct');
 define('WP_MEMORY_LIMIT', '256M');
 define('WP_MAX_MEMORY_LIMIT', '256M');
 
+
 /* That's all, stop editing! Happy publishing. */
 
 
-define( 'WP_HOME', 'https://staging.doomshell.com/giftara' );
-define( 'WP_SITEURL', 'https://staging.doomshell.com/giftara' );
+define( 'WP_HOME', 'http://localhost/giftara' );
+define( 'WP_SITEURL', 'http://localhost/giftara' );
 /**#@+
  * Authentication unique keys and salts.
  *

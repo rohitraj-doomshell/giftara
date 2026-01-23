@@ -132,11 +132,11 @@ body:has(.blog_content_info) .newsletter_frm {
 .single-post .blog_content_info .entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
     width: 100% ;
 }
-.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4 {
+/* .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4 {
         width: 100% !important;
         max-width: 100% !important;
         margin: 3rem auto 2rem;
-    }
+    } */
 
     .entry-content ol {
     width: 100%;
