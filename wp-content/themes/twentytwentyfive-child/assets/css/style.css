@@ -488,7 +488,7 @@
     --pe-70: 70px;
 }
 body, h1, h2, h3, h4, h5, h6, .faux-heading, p, a {    letter-spacing: 0px !important;}
-.container, .container.has-global-padding{ max-width: 1170px !important; margin: auto !important; width: 100%; padding: 0 15px !important;}
+.container, .container.has-global-padding{ max-width: 1170px !important; margin: auto !important; width: 100%; padding: 0 12px !important;}
 
 /* body:not(.overlay-header) .primary-menu>li>a,
 body:not(.overlay-header) .primary-menu>li>.icon, */
@@ -524,7 +524,7 @@ a,a:hover,a:visited, a:active, a:focus{ outline: none; text-decoration: none;}
 /* .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){ max-width: 100% ;} */
 ul li{ list-style: none;}
 /* cate-sec */
-
+.page-template time { display: none;}
 
 header {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
@@ -540,7 +540,7 @@ header {
 }
 
 .cate-sec .cate-sec-mn {
-    margin-top: 50px !important;
+    margin-top: 50px ;
     justify-content: center;
     margin-left: 0;
     padding-left: 0;
@@ -550,7 +550,7 @@ header {
     height: 100%;
 }
 
-.cate-sec-mn .CatSecImg img {
+.cate-sec-mn .CatSecImg img, .cate-sec-mn .CatSecImg figure {
 
     height: 100%;
 }
@@ -687,7 +687,7 @@ align-items: center;
 .new-arrivals-product figure img{object-fit: cover;
     min-height: 100%;
     width: auto;
-    height: auto;
+    height: revert-layer !important;
     min-width: 100%;
     display: inline-block;
     max-width: inherit !important;
@@ -733,7 +733,7 @@ align-items: center;
     padding-top: 15px !important;
 }
 
-.product_cat.product_cat_pg ul{ display: flex; margin: 0 -15px; row-gap: 30px;}
+.product_cat.product_cat_pg ul{ display: flex; margin: 0 -15px; row-gap: 30px; padding: 0;}
 .product_cat.product_cat_pg ul li{ width: 25%; padding: 0 15px;}
 .product_cat.product_cat_pg ul li a{ display: block;}
 
@@ -811,9 +811,8 @@ align-items: center;
 
 .build_Sec {
     padding: 0px 0px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05); overflow: hidden;
 }
- 
 
     .build_Sec .sec_heading h2 {
         color: #e256b9;
@@ -822,19 +821,18 @@ align-items: center;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
-        text-transform: capitalize;
+        text-transform: capitalize; margin-bottom: 5px;
     }
 
     .build_Sec p {
-     
         margin: 0px;
         color: #4c4c4c;
     }
-    p.banner_pra {
+   .build_Sec p.banner_pra {
         font-size: 30px;
         font-weight: 600;
         margin: 0px;
-        color: #2c2c2c;
+        color: #2c2c2c; line-height: 22px;
     }
 
     a.call_btn.btn_view {
@@ -847,7 +845,7 @@ align-items: center;
     
 /* =============Our Differentiators============================= */
 .differentiators {
-    padding: 70px 0px !important;
+    padding: 70px 0px ;
 }
 .differentiators .diff_content .diff_box {
     padding: 0 15px !important;
@@ -855,10 +853,10 @@ align-items: center;
 }
 
 .differentiators .diff_content .box_spacing  {flex-direction: column;}
-.differentiators .diff_content .box_spacing figure{ margin-left: 0 !important;}
+.differentiators .diff_content .box_spacing figure{ margin-left: 0 ;}
 .differentiators .diff_content .diff_box h4 {
       font-size: 18px;
-    font-weight: 500; margin-top: 15px !important; margin-bottom: 5px !important;
+    font-weight: 500; margin-top: 0; color: #212529;
 }
 .differentiators .diff_content {
     padding-top: 15px !important; display: flex; align-items: start; margin: 0 -15px !important;
@@ -895,7 +893,7 @@ align-items: center;
     display: flex;
     align-items: center;
     background-color: #ba435026;
-    padding: 0 40px !important;
+    padding: 0 40px ;
     position: relative;
     height: 130px;
     /* border-bottom: solid 2px #e256b9; */
@@ -916,7 +914,7 @@ margin: 0 !important;
 
 .perfect-gift .sub-text {
     color: #545454;
-    margin-top: 9px !important;
+    margin-top: 9px ;
     font-family: Jost;
     font-size: 16px;
     line-height: 24px; margin-bottom: 0 !important; margin-left: 0 !important;
@@ -929,7 +927,7 @@ margin: 0 !important;
     position: absolute;
     bottom: 0;
     width: 62%;
-    left: 10%;
+    left: 10%; margin-bottom: 0px;
 }
 
 .perfect-gift .start-search {
@@ -968,7 +966,7 @@ margin: 0 !important;
 }
 
 .perfect-gift {
-    padding: 70px 0px !important;
+    padding: 70px 0px;
 }
 
 /* category_sec */
@@ -1036,8 +1034,8 @@ text-decoration: none;
 .view_content p {
 
     color: #757575;
-    /* text-align: justify; */
-    /* font-family: Inter; */
+    text-align: justify;
+    font-family: Inter;
     font-size: var(--font-size16);
     font-style: normal;
     font-weight: 400;
@@ -1059,7 +1057,7 @@ text-decoration: none;
 }
 
 .meet_info .logo img { 
-    width: 150px;
+    width: 200px;
     padding: 20px 10px 0;
 }
 
@@ -1106,7 +1104,7 @@ text-decoration: none;
 
 
 /* =======work-prossec========= */
-.work-prossec{ padding: 60px 0 !important;}
+.work-prossec{ padding: 60px 0;}
 .work-prossec h5.step-number {
     position: absolute;
     bottom: -13px;
@@ -1311,12 +1309,12 @@ text-decoration: none;
 }
 .build-Relation-sec h2 {
     color: #2c2c2c;
-    margin-top: 11px;
+    margin: 0;
     font-family: Jost;
     font-size: 46px;
     font-weight: 600;
     text-transform: uppercase;
-    line-height: 58px;
+    line-height: 58px; 
 }
 
 .build-Relation-sec p {
@@ -1432,6 +1430,7 @@ text-decoration: none;
 }
 .newsletter_frm form .row div{ align-self: center;}
 .newsletter_frm form .row div p{ height: auto;}
+.newsletter_frm form .row div.col-lg-4.form-file{ width: 40%;}
 .wpcf7-spinner{ position: absolute !important; top: 100%;}
 .newsletter_frm form label {
     display: none;
@@ -1835,7 +1834,7 @@ header .header-inner .header-titles-wrapper {
     color: #e25bb9;}
 
         h1.cat-product-title {
-        font-size: 32px; font-style: normal;
+        font-size: 36px; font-style: normal;
     font-weight: 700;
     line-height: normal;
     text-transform: capitalize; color: #292929; text-align: left; margin-bottom: 5px;
@@ -1903,8 +1902,8 @@ header .header-inner .header-titles-wrapper {
        .category-product-pg  ul li .wc-block-components-product-price span span{ display: inline-block;}
 
 /* =======blog-sec======= */
-.blog-sec{ padding: 70px 0px;}
-.blog-sec ul{ display: flex; flex-wrap: wrap; row-gap: 30px; margin: 0 -15px;}
+.blog-sec{ padding: 50px 0px;}
+.blog-sec ul{ display: flex; flex-wrap: wrap; row-gap: 30px; margin: 0;}
 .blog-sec ul li{ width: 33.333%; padding: 0 15px;}
 .blog-sec .blog-sec-bx{background: #ffffff;
     padding: 12px;
@@ -1968,12 +1967,13 @@ header .header-inner .header-titles-wrapper {
 .woocommerce-breadcrumb a{ color: #e25bb9;}
 .signle-pro-row{ display: flex; justify-content: space-between; }
 .signle-pro-row .signle-pro-left, .signle-pro-row .signle-pro-right{width: 48%; flex-basis: inherit !important;}
+.signle-pro-row .signle-pro-right{ margin-left: 4%;}
 .signle-pro-row .signle-pro-right h1{ font-size: 36px; font-weight: bold; margin-bottom: 5px;}
 .signle-pro-row .signle-pro-right .amount{    
     font-size: 35px;
     color: #bf3b94; line-height: 1.8;}
    .signle-pro-row .signle-pro-right .wp-block-post-excerpt p{    font-size: 16px;
-    margin-bottom: 30px;}
+    margin-bottom: 30px; text-align: justify;}
 .wc-block-components-product-price{margin-bottom: 18px; }
 
 .signle-pro-row  .flex-control-thumbs{ margin-top: 10px !important; display: flex; gap: 5px;}
@@ -2113,9 +2113,43 @@ footer .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.al
     background-color: #cd2ba2;
     border-color: #cd2ba2;}
     body{ overflow-x: hidden;}
+
+
+/* ========pagination======= */
+.wp-block-query-pagination{    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;  padding: 0;
+    display: block;
+    font-weight: 700;
+    letter-spacing: -.02em;
+    line-height: 1.2; display: flex; justify-content: center; gap: 4px;
+}
+.wp-block-query-pagination-numbers{ display: flex; gap: 4px; }
+
+nav.wp-block-query-pagination a, nav.wp-block-query-pagination span{    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 2px !important; transition: all 0.3s ease;
+    border: 1px solid #ddd;
+    text-decoration: none;
+    color: #333;
+    background-color: #fff;     line-height: 1;
+    text-align: center; min-width: 40px;
+}
+
+nav.wp-block-query-pagination span.page-numbers.current, nav.wp-block-query-pagination a:hover{background-color: #e256b9;
+    color: #fff;
+    border-color: #e256b9;
+    font-weight: 600;}
+
 /* ========responsive======== */
 
 @media (max-width: 1440px){
+    h1.cat-product-title{ font-size: 32px;}
+    .newsletter_frm form .row div.col-lg-4.form-file{ width: 39%;}
     .header-inner .header_search.header-toggles {
     width: inherit;
 }
@@ -2129,8 +2163,11 @@ footer .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.al
 
 
 @media (max-width: 1399px) {
-    .products_sec{ padding: 60px 0px;}
-    .new-arrivals-product li figure {
+    p, .signle-pro-row .signle-pro-right .wp-block-post-excerpt p{ font-size: 15px;}
+    .meet_info .logo img{ width: 150px; padding: 20px 10px 0px;}
+    .view_content p{ font-size: 15px;}
+    .products_sec, .lots_sec, .clientele_sec{ padding: 60px 0px;}
+    .new-arrivals-product li figure, .new-arrivals-product li figure a {
     max-height: 220px;
     min-height: 220px;
 }
@@ -2155,13 +2192,44 @@ footer .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.al
 }
 
 @media (max-width: 1300px){
+    .cate-sec p{ font-size: 20px;}
+    .cate-sec h2{ font-size: 60px;}
     .cate-sec .cate-sec-mn .cate-sec-box{ width: 180px; height: 180px;}
     .cate-sec .cate-sec-mn .cate-sec-box a{ font-size: 17px; margin-bottom: 14px;}
 }
 
 
 @media (max-width: 1200px){
-    .products_sec{ padding: 50px 0px;}
+    .signle-pro-row .signle-pro-right .amount{ font-size: 30px;}
+    .signle-pro-row .signle-pro-right h1{ font-size: 34px;}
+    .category-product-pg ul li .cate-product-bx h2.wp-block-post-title{ font-size: 16px;}
+    .cate-shorten-row select.orderby{ font-size: 12px !important;}
+    .category-product-pg ul.wp-block-woocommerce-product-template li{ width: 33.333%;}
+    .product_cat.product_cat_pg ul li span.wc-block-product-categories-list-item__name{ font-size: 17px;}
+    .cate-sec .cate-sec-mn{ margin-top: 30px;}
+    footer .footer_sec p{ font-size: 13px;}
+    footer .s_icons{ width: 30px; height: 30px; padding: 7px; }
+    footer .footer_sec ul li{ font-size: 14px;}
+    footer .footer_sec .f-about p{ margin-right: 0;}
+    .build-Relation-sec p{font-size: 17px;
+        line-height: 25px;}
+    .build-Relation-sec h4{font-size: 51px;
+        line-height: 50px;}
+    .build-Relation-sec h2{ font-size: 36px;}
+    .work-prossec, .clientele_sec{ padding: 50px 0px;}
+    .work-prossec .step p{ font-size: 16px;}
+    .meet_info .logo img{         width: 130px;
+        padding: 15px 6px 0px;}
+    .view_content .man_img img{ height: 160px;
+        right: 0px;
+        bottom: -62px;}
+    .view_content p{ text-align: left;}
+    .view_content{padding: 30px 26px 100px;
+        min-height: 300px; border-radius: 20px;}
+    .perfect-gift .gift-box{ width: 56%;}
+    .perfect-gift .main-text{ font-size: 30px;}
+    .build_Sec p.banner_pra { font-size: 24px;}
+    .products_sec, .lots_sec{ padding: 50px 0px;}
     .heading h2{ font-size: 40px;}
     .cate-sec {
     padding: 50px 0px 90px ;
@@ -2190,7 +2258,23 @@ footer .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.al
 }
 }
 
+@media (max-width: 1024px) {
+    .perfect-gift .gift-box{ width: 46%;}
+    .products_sec ul li, 
+    .product_cat.product_cat_pg ul li { width: 33.33%; }
+    
+
+    
+    .build_Sec .sec_heading h2 { font-size: 45px; }
+    
+    .newsletter_frm .n_title, 
+    .newsletter_frm .n_form { width: 100%; text-align: center; }
+    .newsletter_frm .n_title { margin-bottom: 20px; }
+    .newsletter_frm form { justify-content: center; }
+}
+
 @media (max-width: 999px){
+    .cate-sec h2{ font-size: 50px;}
     .menu-top .modal-menu {
     position: relative;
     left: 0;
@@ -2315,10 +2399,59 @@ header .header-inner .header-navigation-wrapper:has(nav){ position: absolute; to
 }
 
 @media (max-width: 991px) {
+    .blog-sec ul li{ width: 50%;}
+    .related-pro-section h2{ font-size: 30px !important;}
+    .signle-pro-row .signle-pro-right .amount{ font-size: 24px;}
+    .signle-pro-row .signle-pro-right h1{ font-size: 26px;}
+    .category-product-pg ul.wp-block-woocommerce-product-template li{ width: 50%;}
+    .cate-sec .cate-sec-mn .cate-sec-box:nth-child(even){ border-radius: 12px;}
+    .header-inner .toggle{ width: 30px; width: 30px;}
+    .serolling-modal .modal-dialog.modal-dialog-centered.modal-lg{max-width: 750px;
+        margin: auto; width: 90% !important;}
+    p, .signle-pro-row .signle-pro-right .wp-block-post-excerpt p{ font-size: 14px;}
+    .footer_sec .footer-row{ row-gap: 30px;}
+    .newsletter_frm form .row div.col-lg-4.form-file{ width: 50%; margin-bottom: 10px;}
+    .newsletter_frm .n_title p{font-size: 15px;
+        margin-right: 0px;}
+    .newsletter_frm .newsletter_box{ flex-direction: column;}
+    .build-Relation-sec .start-search{        padding: 7px 20px;
+        font-size: 15px;}
+    .build-Relation-sec p{font-size: 12px;
+        line-height: normal;}
+    .build-Relation-sec h4{        font-size: 38px;
+        line-height: 36px;}
+    .build-Relation-sec h2{font-size: 26px;
+        line-height: 27px;
+        margin-top: 0px;
+    }
+    .build-Relation-sec .build_info{padding: 10px 15px;}
+    .heading h2:after{ margin-bottom: 15px;}
+    .work-prossec .step p{margin: 0px 0 5px; font-size: 15px;}
+    .lots_sec, .work-prossec, .clientele_sec{ padding: 40px 0px;}
+    .Started_btn{margin: auto;
+        margin-top: 30px;}
+      .meet_info .logo img{         width: 100px;
+    }
+     .view_content .man_img img{         right: 0px;
+       height: 130px;
+        bottom: -56px;}
+    .view_content p{ font-size: 14px;}
+        .view_content {
+              padding: 20px 15px 50px;
+        min-height: 265px;
+    }
+    .meet_info{ margin: 0;}
+    .category_sec li img{ width: 140px !important; height: 140px !important;}
+        .differentiators .diff_content .diff_box { width: 33.33%; margin-bottom: 30px; display: flex; flex-direction: column; }
+        .differentiators .diff_content{ flex-wrap: wrap; justify-content: center; align-items: stretch; }
+        .differentiators .diff_content .box_spacing{ background-color: #fff; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05); justify-content: start; padding: 12px; align-items: center !important; height: 100%;}
+        .differentiators .diff_content .diff_box h4{ text-align: center;}
+        .differentiators .diff_content .diff_box p{ text-align: center;}
+        .differentiators .diff_content .box_spacing figure{ margin: auto; margin-bottom: 10px; margin-top: 0;}
         .products_sec{ padding: 40px 0px;}
     .products_sec .product-img-box{ height: 200px;}
       .products_sec .product-img-box figure,   .products_sec .product-img-box figure a,   .products_sec .product-img-box figure img{ height: 100%;}
-        .new-arrivals-product li figure {
+        .new-arrivals-product li figure, .new-arrivals-product li figure a {
     max-height: 190px;
     min-height: 190px; margin-bottom: 0;
 }
@@ -2357,9 +2490,57 @@ header .header-inner .header-titles-wrapper{ width: 100%;}
     .meet_info img.logo {
         width: 100px;
     }
+    .perfect_info{ padding: 0 25px;}
+    .perfect-gift .main-text{ font-size: 27px;}
+}
+
+@media (max-width: 800px) {
+.differentiators .diff_content .diff_box h4 { font-size: 17px;}
 }
 
 @media (max-width: 767px) {
+    .blog-sec ul li{ width: 100%;}
+    .related-pro-section h2{ font-size: 26px !important;}
+    .woocommerce-Tabs-panel--description p{ text-align: justify;}
+    .wp-block-woocommerce-product-details ul li{ display: inline-block !important; border-left: none !important; border-bottom: 2px solid !important;}
+    .woocommerce .wp-block-woocommerce-product-image-gallery{ max-width: 100%;}
+    .signle-pro-row .signle-pro-right{ margin-left: 0;}
+    .woocommerce div.product div.images{ margin-bottom: 0;}
+    .signle-pro-row .signle-pro-right h1{ font-size: 28px; margin-top: 30px;}
+    .category-product-pg .woocommerce-breadcrumb{ font-size: 12px; margin-bottom: 12px;}
+    h1.cat-product-title{ font-size: 26px;}
+    .cate-sec .cate-sec-mn{ margin-top: 15px;}
+    .cate-sec p{ font-size: 16px;}
+    .cate-sec h2{ font-size: 40px;}
+    footer .footer_sec p{ font-size: 11px;}
+    footer .s_icons{ width: 25px; height: 25px; padding: 6px; }
+    .newsletter_frm .n_title h2{ font-size: 26px;}
+    .build-Relation-sec{ padding: 0; padding-top: 60px;}
+    .build-Relation-sec h4{font-size: 51px;
+        line-height: 50px;
+        text-align: center;}
+    .build-Relation-sec h2{ font-size: 20px;}
+        .build-Relation-sec .build_info{padding: 40px;}
+    .work-prossec .timeline::before{ display: none;}
+    .lots_sec, .work-prossec, .clientele_sec{ padding: 30px 0px;}
+      .Started_btn{padding: 8px 24px;
+        font-size: 14px;}
+    .perfect-gift .gift-box{ width: 150px;}
+    .perfect-gift .sub-text{ margin-top: 0;}
+    .perfect-gift .gift-box{         position: inherit;
+        left: 0%;
+        order: 2;}
+        .perfect-gift .start-search{font-size: 13px;
+        padding: 7px 15px;
+        letter-spacing: 0;
+        order: 1;}
+        .perfect-gift .second{ flex-direction: column !important;         position: relative;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;}
+    .perfect-gift .main-text{ font-size: 25px;}
         .products_sec{ padding: 30px 0px;}
     .heading h2{ font-size: 30px;}
         .cate-sec {
@@ -2382,10 +2563,55 @@ header .header-inner .header-titles-wrapper{ width: 100%;}
         border: 1px solid #333333;
         border-radius: 4px;
     }
+
+    .build_Sec { text-align: center; padding: 40px 0; }
+    .build_Sec img.build_img { width: 100%; margin-top: 20px; }
+    .build_Sec .sec_heading h2 { font-size: 36px; }
+
+     .build_Sec p.banner_pra { font-size: 22px;}
+    .products_sec ul li, 
+    .product_cat.product_cat_pg ul li { width: 50%; }
+    .differentiators .diff_content { flex-wrap: wrap; justify-content: center; }
+    .differentiators .diff_content .diff_box { width: 50%; text-align: center; }
+    .perfect-gift .first, .perfect-gift .second,
+    .build-Relation-sec .first, .build-Relation-sec .text-info { width: 100%; text-align: center; }
+    .build-Relation-sec .text-info{ align-items: center;}
+    .perfect_info { height: auto; padding: 20px; padding-bottom: 0; flex-direction: column; text-align: center; }
+
+    .build-Relation-sec img { max-width: 480px;
+        width: 90%;
+        margin: auto;
+        margin-top: 30px;}
+    .view_content {         padding: 30px 30px 60px;
+        min-height: auto; }
+    .view_content img.man_img, .view_content .man_img img {height: 168px;
+        bottom: -100px;}
+        .meet_info .logo img{        width: 180px;
+        padding: 19px 30px 0px;}
+            .meet_info {
+        margin: 0px 4%;
+        margin-bottom: 70px;
+    }
+    .work-prossec .step { width: 80%;  height: auto;
+        min-height: auto;
+        margin: 12px auto;}
+
+
+
+
+
+    .wpcf7-spinner{ position: static !important;}
 }
 
 @media(max-width: 643px) {
-        .new-arrivals-product li figure {
+    .signle-pro-row .signle-pro-right h1{ font-size: 26px;}
+    .category-product-pg ul.wp-block-woocommerce-product-template li{ width: 50%;}
+    .cate-sec p{ font-size: 15px;}
+        .build-Relation-sec .build_info{padding: 40px;}
+    .Started_btn{ margin-top: 0;}
+    .meet_info .logo img{ width: 160px;}
+    .view_content h4{ font-size: 17px;}
+        .new-arrivals-product li figure, .new-arrivals-product li figure a {
     max-height: 180px;
     min-height: 180px;
 }
@@ -2396,7 +2622,53 @@ header .header-inner .header-titles-wrapper{ width: 100%;}
 }
 
 @media(max-width: 575px) {
-        .new-arrivals-product li figure {
+    .blog-sec{ padding: 20px 0;}
+    .related-pro-section h2{ font-size: 24px !important;}
+    .signle-pro-row .signle-pro-right .wp-block-post-excerpt p{ margin-bottom: 20px;}
+    .signle-pro-row .signle-pro-right .amount{ font-size: 20px;}
+    .signle-pro-row .signle-pro-right h1{ font-size: 24px; margin-top: 20px;}
+    .category-product-pg ul li .cate-product-bx h2.wp-block-post-title{ font-size: 14px;}
+    .category-product-pg .woocommerce-breadcrumb{ font-size: 9px; margin-bottom: 5px;}
+    h1.cat-product-title{ font-size: 24px;}
+    .cate-sec h2{ font-size: 36px;}
+    .header-inner .toggle{ width: 25px; height: 25px;}
+    .header-inner .toggle::after{ width: 23px; height: 23px;}
+    .serolling-modal button.btn-close{        position: absolute;
+        right: -5px;
+        top: -5px;
+        background-image: none;
+        opacity: 1;
+        outline: none;}
+      .serolling-modal .modal-dialog.modal-dialog-centered.modal-lg{ width: 80% !important;}
+    .serolling-modal .popup-contant{ padding: 20px 0;}
+    footer .foot-logo{ text-align: center;}
+    footer .f_bottom{        flex-direction: column;
+        gap: 15px;}
+    footer .f_bottom .copy_R{ order: 3;}
+    footer .footer_sec ul li{ font-size: 14px; margin: 7px 0px;}
+    footer .footer_sec h5{ margin-bottom: 22px;}
+    footer .footer_sec .f_logo{width: 200px;
+        }
+    .newsletter_frm .n_title p{font-size: 14px;
+        margin-right: 0px;}
+    .newsletter_frm .n_title h2{ font-size: 24px;}
+    .newsletter_frm i{font-size: 45px;
+        margin-right: 10px;}
+    .newsletter_frm .newsletter_box{padding: 20px 15px;
+        border-radius: 20px;}
+    .build-Relation-sec{ padding: 0; padding-top: 50px;}
+    .build-Relation-sec h4{font-size: 48px;}
+  .why_Giftara{ padding: 40px 0px;}
+    .view_content img.man_img, .view_content .man_img img{height: 160px;
+        bottom: -85px;}
+    .view_content h4{ font-size: 16px;}
+    .view_content{        padding: 20px 25px 60px;
+        min-height: auto;}
+    .perfect-gift{ padding: 0px 0px;}
+    .differentiators{ padding: 30px 0px;}
+    .category_sec{ padding: 20px 0px;}
+    .differentiators .diff_content .diff_box h4{ font-size: 16px; margin-bottom: 0px;}
+        .new-arrivals-product li figure, .new-arrivals-product li figure a {
     max-height: 170px;
     min-height: 170px;
 }
@@ -2410,16 +2682,90 @@ header .header-inner .header-titles-wrapper{ width: 100%;}
         .cate-sec .cate-sec-mn .cate-sec-box{margin: 0px 2px !important; }
 .header-titles img{ width: 70px;}
 .cate-sec .cate-sec-mn .cate-sec-box{ width: 80px; height: 80px;}
+ .product_cat.product_cat_pg ul li span.wc-block-product-categories-list-item__image{ height: 200px;}
 }
 
 @media(max-width: 480px) {
+    .blog-sec ul li{ padding: 0;}
+    .blog-sec .blog-sec-bx h2.wp-block-post-title a{ font-size: 20px;}
+    .related-pro-section h2{ font-size: 22px !important;}
+    .signle-pro-row .taxonomy-product_cat{ font-size: 14px;}
+    .signle-pro-row .signle-pro-right .amount{ font-size: 20px;}
+    .signle-pro-row .signle-pro-right h1{ font-size: 22px;}
+    .wc-block-components-product-price{ margin-bottom: 5px ;}
+    .wp-block-woocommerce-product-price{ margin-bottom: 0 !important;}
+    .category-product-pg ul li .cate-product-bx h2.wp-block-post-title{ font-size: 16px;}
+    .woocommerce.wc-block-product-results-count .woocommerce-result-count{ font-size: 12px !important;}
+    h1.cat-product-title{ font-size: 20px;}
+    .category-product-pg ul.wp-block-woocommerce-product-template li{ width: 100%;}
+    .product_cat.product_cat_pg ul li span.wc-block-product-categories-list-item__name{ font-size: 15px; }
+    .cate-sec p{ font-size: 13px;}
+    .cate-sec h2{ font-size: 30px;}
+      .serolling-modal .modal-dialog.modal-dialog-centered.modal-lg{ width: 90% !important;}
+    .serolling-modal .popup-contant h2{ font-size: 24px;}
+    footer .footer_sec p{ line-height: 24px;}
+    footer .footer_sec .f-about p{        margin-right: 0px;
+        line-height: 24px;
+        text-align: justify;}
+      footer .footer_sec .f_logo{width: 170px;
+        } 
+    footer .footer_sec{padding: 24px 5px 0px;}
+    .newsletter_frm{ margin-bottom: 24px;}
+    .newsletter_frm .n_title h2{ font-size: 20px;}
+    .newsletter_frm i{ display: none;}
+    .newsletter_frm .newsletter_box{padding: 20px 10px 10px;
+        border-radius: 10px;}
+    .clientes_box{        height: 60px;
+        padding: 10px;
+        display: flex; 
+        align-items: center;}
+    .build-Relation-sec{ padding: 0; padding-top: 40px;}
+    .build-Relation-sec img{ width: 100%;}
+    .build-Relation-sec h4{font-size: 41px;
+        line-height: 40px;}
+     .build-Relation-sec h2{ font-size: 22px;}
+        .build-Relation-sec .build_info{padding: 30px 15px 0px;}
+    .heading h2:after{ width: 80px;}
+    .why_Giftara .box_info{border-radius: 15px;
+        padding: 10px;
+        min-height: 153px;} 
+        .owl-carousel .owl-item img{width: 100% !important; height: 100%;
+        margin-bottom: 11px;}
+        .why_Giftara .box_info h4{        font-size: 15px;
+        font-weight: 500;}
+    .why_box{ padding: 10px 0;}
+    .lots_sec, .work-prossec, .clientele_sec{ padding: 25px 0px;}
+        .Started_btn {
+        padding: 6px 19px;
+        font-size: 12px;
+    }
+    .meet_info{        margin: 0px 4%;
+        margin-bottom: 50px;}
+        .view_content img.man_img, .view_content .man_img img{        height: 141px;
+        bottom: -70px;}
+    .category_sec{ padding: 22px 0px 0px;}
+    .category_sec li .wc-block-product-categories-list-item__name{ font-size: 15px; margin-top: 9px;}
+        .products_sec ul li{ width: 50%;}
+    .product_cat.product_cat_pg ul li { width: 100%; }
+     .product_cat.product_cat_pg ul li { width: 50%; }
+     .product_cat.product_cat_pg ul li span.wc-block-product-categories-list-item__image{ height: 170px;}
+    
+    .differentiators .diff_content .diff_box { width: 100%; }
+    .differentiators .diff_content .diff_box:last-child{ margin-bottom: 0;}
+    .newsletter_frm .tnp-email { border-radius: 30px; margin-bottom: 10px; width: 100%; }
+    .newsletter_frm .tnp-submit { border-radius: 30px; width: 100%; }
+    .newsletter_frm form { flex-direction: column; }
+    
+    .build_Sec .sec_heading h2 { font-size: 28px; }
+     .build_Sec p.banner_pra { font-size: 18px;}
         .products_sec{ padding: 25px 0px 10px;}
         .products_sec .cat_box .products-sec-title a{ font-size: 16px;}
-        .new-arrivals-product li figure {
+        .new-arrivals-product li figure , .new-arrivals-product li figure a{
     max-height: 160px;
     min-height: 160px;
 }
     .heading h2{ font-size: 22px;}
+    .lots_sec .heading h2{ font-size: 21px;}
         .cate-sec {
     padding: 8px 0px 20px ;
 }
@@ -2428,10 +2774,30 @@ header .header-inner .header-titles-wrapper{ width: 100%;}
 }
 
 @media(max-width: 400px) {
-
+    .blog-sec .blog-sec-bx h2.wp-block-post-title a{ font-size: 18px;}
+    .cate-shorten-row select.orderby{ font-size: 11px !important; padding: 8px 3px;}
+    .product_cat.product_cat_pg ul li span.wc-block-product-categories-list-item__name{ font-size: 13px; }
+     .product_cat.product_cat_pg ul li span.wc-block-product-categories-list-item__image{ height: 38vw;}
+    .cate-sec p{ font-size: 12px;}
+    .cate-sec h2{ font-size: 26px;}
+    .giftara-header-search .search-form{ height: 30px ; padding: 4px 9px 5px;}
+    .header-inner .header_search.header-toggles{ margin: auto; margin-top: 0; width: 90%;}
+    .serolling-modal input[type="email"], .serolling-modal input{padding: 5px 10px !important;
+        border-radius: 4px;
+        font-size: 13px;}
+    p, .signle-pro-row .signle-pro-right .wp-block-post-excerpt p{ font-size: 13px; line-height: 22px;}
+    .newsletter_frm form .row div.col-lg-4.form-file{ width: 100%;}
+     .build-Relation-sec h4{font-size: 35px;
+        line-height: 40px;}
+    .work-prossec .step{ width: 100%;}
+      .meet_info{margin: 0px 1%;
+        margin-bottom: 50px;}
+       .meet_info .logo img{ width: 150px;}
+.view_content p{        font-size: 13px;
+        line-height: 22px;}
         .products_sec .cat_box .products-sec-title a{ font-size: 13px;}
     .products_sec .product-img-box{ height: 150px;}
-        .new-arrivals-product li figure {
+        .new-arrivals-product li figure, .new-arrivals-product li figure a {
     max-height: 140px;
     min-height: 140px;
 }
@@ -2447,87 +2813,3 @@ header .header-inner .header-titles-wrapper{ width: 100%;}
 
 
 /*  */
-/* ================================================================
-   RESPONSIVE CSS (Max-width approach)
-   ================================================================ */
-
-/* --- Tablet & Small Desktop (Max-width: 1024px) --- */
-@media (max-width: 1024px) {
-    .products_sec ul li, 
-    .product_cat.product_cat_pg ul li { width: 33.33%; }
-    
-    .differentiators .diff_content .diff_box { width: 33.33%; margin-bottom: 30px; }
-    
-    .build_Sec .sec_heading h2 { font-size: 45px; }
-    
-    .newsletter_frm .n_title, 
-    .newsletter_frm .n_form { width: 100%; text-align: center; }
-    .newsletter_frm .n_title { margin-bottom: 20px; }
-    .newsletter_frm form { justify-content: center; }
-}
-
-/* --- Mobile & Small Tablets (Max-width: 768px) --- */
-@media (max-width: 768px) {
-    /* Category Section */
-    /* .cate-sec .cate-sec-mn { flex-wrap: wrap; gap: 20px; } */
-    /* .cate-sec .cate-sec-mn .cate-sec-box { width: 160px; height: 160px; } */
-    .cate-sec h2 { font-size: 28px; }
-
-    /* Build Section */
-    .build_Sec { text-align: center; padding: 40px 0; }
-    .build_Sec img.build_img { width: 100%; margin-top: 20px; }
-    .build_Sec .sec_heading h2 { font-size: 36px; }
-    p.banner_pra { font-size: 22px; }
-
-    /* Products Grid */
-    .products_sec ul li, 
-    .product_cat.product_cat_pg ul li { width: 50%; }
-
-    /* Differentiators */
-    .differentiators .diff_content { flex-wrap: wrap; justify-content: center; }
-    .differentiators .diff_content .diff_box { width: 50%; text-align: center; }
-
-    /* Perfect Gift & Build Relation */
-    .perfect-gift .first, .perfect-gift .second,
-    .build-Relation-sec .first, .build-Relation-sec .text-info { width: 100%; text-align: center; }
-    .perfect_info { height: auto; padding: 20px !important; flex-direction: column; text-align: center; }
-    .perfect-gift .gift-box { position: relative; width: 80%; left: 0; margin: 20px auto; }
-    .build-Relation-sec h4 { font-size: 40px; line-height: 45px; }
-    .build-Relation-sec h2 { font-size: 30px; line-height: 38px; }
-    .build-Relation-sec img { margin-top: 20px; width: 100%; }
-
-    /* View Content (Lots Sec) */
-    .view_content { padding: 30px 20px 150px; text-align: center; }
-    .view_content img.man_img, .view_content .man_img img { height: 150px; bottom: -20px; right: 50%; transform: translateX(50%); }
-
-    /* Timeline Section (Work Process) */
-    /* (Already handled in your code, but adding refinements) */
-    .work-prossec .step { width: 90%; margin: 10px auto; }
-
-    /* Newsletter & Footer */
-    .newsletter_frm .newsletter_box { padding: 20px; }
-    footer .f_bottom { flex-direction: column; gap: 15px; text-align: center; }
-    footer .footer_sec { text-align: center; }
-    footer .footer_sec .f-about p { margin-right: 0; }
-    footer .social_icon { justify-content: center; margin-top: 15px; }
-}
-
-/* --- Extra Small Mobile (Max-width: 480px) --- */
-@media (max-width: 480px) {
-
-    .products_sec ul li{ width: 50%;}
-    .product_cat.product_cat_pg ul li { width: 100%; }
-    
-    .differentiators .diff_content .diff_box { width: 100%; }
-    
-    .category_sec li img { width: 150px; height: 150px; }
-    
-   
-
-    .newsletter_frm .tnp-email { border-radius: 30px; margin-bottom: 10px; width: 100%; }
-    .newsletter_frm .tnp-submit { border-radius: 30px; width: 100%; }
-    .newsletter_frm form { flex-direction: column; }
-    
-    .build_Sec .sec_heading h2 { font-size: 28px; }
-    .perfect-gift .main-text { font-size: 28px; }
-}
