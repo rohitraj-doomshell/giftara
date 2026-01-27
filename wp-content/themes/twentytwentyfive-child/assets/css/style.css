@@ -2101,19 +2101,19 @@ footer .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.al
 
 .serolling-modal input[type="email"], .serolling-modal input {
     padding: 8px 15px;
-    border-radius: 5px;
+    border-radius: 5px; height: 42px; min-height: 42px; font-size: 16px;
 }
 
 .serolling-modal .btn {
     color: #fff;
     background-color: #d136a7;
-    border-color: #d136a7;}
+    border-color: #d136a7; padding: 7px 15px; text-transform: uppercase; font-size: 17px;}
 .serolling-modal .btn:hover {
     color: #fff;
     background-color: #cd2ba2;
     border-color: #cd2ba2;}
     body{ overflow-x: hidden;}
-
+.serolling-modal .modal-body{ padding: 10px !important;}
 
 /* ========pagination======= */
 .wp-block-query-pagination{    text-align: center;
