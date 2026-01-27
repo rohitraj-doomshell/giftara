@@ -580,25 +580,31 @@ function giftara_header_menu_toggle_script() {
     jQuery(document).ready(function($) {
         
         // --- 1. 'header-menu-trigger' class add karna ---
-        // Un sabhi links ko target karega jinke niche sub-menu hai
         $('.menu-item-has-children > a').addClass('header-menu-trigger');
 
         // --- 2. Click Event Handler ---
         $('.header-menu-trigger').on('click', function(e) {
-            // Default link action rokne ke liye (taaki page refresh na ho)
-            e.preventDefault();
+            
+            // Check karein ki window width 991px se zyada hai ya nahi
+            if (window.innerWidth > 991) {
+                
+                // Desktop logic: Link click hone se rokein aur menu toggle karein
+                e.preventDefault();
 
-            // Toggle classes for CSS styling
-            $(this).toggleClass('open-menu active');
+                // Toggle classes for CSS styling
+                $(this).toggleClass('open-menu active');
 
-            // --- 3. Menu Toggle Logic ---
-            // Agar aap specifically '.header-categories-menu' ko toggle karna chahte hain:
-            if ($('.header-categories-menu').length > 0) {
-                $('.header-categories-menu').slideToggle(300);
+                // Menu Toggle Logic
+                if ($('.header-categories-menu').length > 0) {
+                    $('.header-categories-menu').slideToggle(300);
+                }
+                
+            } else {
+                // Mobile logic (991px or less): 
+                // e.preventDefault() nahi chalega, isliye link normal behave karega 
+                // aur user href wale URL par chala jayega.
+                return true; 
             }
-
-            // Agar aap <a> ke theek niche wale sub-menu ko toggle karna chahte hain (Alternate logic):
-            // $(this).siblings('.sub-menu').slideToggle(300);
         });
     });
     </script>
@@ -651,3 +657,102 @@ add_filter( 'render_block', function( $block_content, $block ) {
     
     return $block_content;
 }, 10, 2 );
+
+
+add_filter( 'render_block', 'remove_empty_tags_from_blog_content', 10, 2 );
+
+function remove_empty_tags_from_blog_content( $block_content, $block ) {
+    
+    // Check karein ki kya block mein ".blog_content_info" class hai
+    if ( isset( $block['attrs']['className'] ) && strpos( $block['attrs']['className'], 'blog_content_info' ) !== false ) {
+        
+        // 1. Khali <p> tags hatayein (jinme sirf space ya &nbsp; ho)
+        $block_content = preg_replace('/<p[^>]*>(\s|&nbsp;)*<\/p>/', '', $block_content);
+        
+        // 2. <br> tags ko hatayein
+        $block_content = str_replace('<br>', '', $block_content);
+        $block_content = str_replace('<br />', '', $block_content);
+        $block_content = str_replace('<br/>', '', $block_content);
+    }
+
+    return $block_content;
+}
+
+add_action('wp_footer', 'giftara_animated_counter_script');
+
+function giftara_animated_counter_script() {
+    ?>
+    <script type="text/javascript">
+    jQuery(document).ready(function($) {
+        
+        // Counter animation function
+        function startCounter($this) {
+            $this.prop('Counter', 0).animate({
+                Counter: $this.text()
+            }, {
+                duration: 4000,
+                easing: 'swing',
+                step: function(now) {
+                    $this.text(Math.ceil(now));
+                },
+                complete: function() {
+                    $this.addClass('counted');
+                }
+            });
+        }
+
+        // Intersection Observer: Jab counter screen par dikhega tabhi chalega
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    let $el = $(entry.target);
+                    if (!$el.hasClass('counted')) {
+                        startCounter($el);
+                    }
+                }
+            });
+        }, { threshold: 0.5 }); // Jab 50% counter dikhega tab start hoga
+
+        $('.counter').each(function() {
+            observer.observe(this);
+        });
+    });
+    </script>
+    <?php
+}
+
+add_action('wp_footer', 'giftara_mobile_menu_toggle_logic');
+
+function giftara_mobile_menu_toggle_logic() {
+    ?>
+    <script type="text/javascript">
+    jQuery(document).ready(function($) {
+        
+        // 1. Menu Open karne ke liye
+        $('.mobile-nav-toggle').on('click', function(e) {
+            e.preventDefault();
+            $('.primary-menu-wrapper').addClass('open');
+            // Optional: Body scroll lock karne ke liye taaki menu ke piche page na hile
+            $('body').css('overflow', 'hidden'); 
+        });
+
+        // 2. Menu Close karne ke liye
+        $('.mobile-menu-closico').on('click', function(e) {
+            e.preventDefault();
+            $('.primary-menu-wrapper').removeClass('open');
+            // Body scroll wapas enable karne ke liye
+            $('body').css('overflow', 'auto');
+        });
+
+        // 3. Optional: Agar user menu ke bahar click kare toh bhi band ho jaye
+        $(document).on('click', function(event) {
+            if (!$(event.target).closest('.primary-menu-wrapper, .mobile-nav-toggle').length) {
+                $('.primary-menu-wrapper').removeClass('open');
+                $('body').css('overflow', 'auto');
+            }
+        });
+
+    });
+    </script>
+    <?php
+}
