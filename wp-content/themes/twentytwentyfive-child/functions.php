@@ -1370,21 +1370,3 @@ function giftara_newsletter_popup()
 
 <?php
 }
-add_action('wp_footer', 'giftara_newsletter_popup');
-
-add_filter('wpcf7_form_elements', 'disable_recaptcha_for_whatsapp_updates_form', 10, 2);
-function disable_recaptcha_for_whatsapp_updates_form($content, $form) {
-
-    // Form title check
-    if ($form->title() === 'WhatsApp Updates') {
-
-        // reCAPTCHA v3 field remove
-        $content = preg_replace(
-            '/<input type="hidden" name="_wpcf7_recaptcha_response".*?>/i',
-            '',
-            $content
-        );
-    }
-
-    return $content;
-}
