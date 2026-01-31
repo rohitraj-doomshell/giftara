@@ -71,14 +71,6 @@ function tt5_child_all_assets() {
         '1.0.0'
     );
 
-    // wp_enqueue_style(
-    //     'responsive-css',
-    //     get_stylesheet_directory_uri() . '/assets/css/responsive.css',
-    //     array('style-css'),
-    //     '1.0.0'
-    // );
-
-
     /* =====================
      * JS FILES
      * ===================== */
@@ -113,18 +105,6 @@ function tt5_child_all_assets() {
 
 add_action('wp_enqueue_scripts', 'tt5_child_all_assets');
 
-
-
-// function tt5_add_google_fonts() {
-//     wp_enqueue_style(
-//         'google-fonts',
-//         'https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Tenor+Sans&display=swap',
-//         array(),
-//         null
-//     );
-// }
-// add_action('wp_enqueue_scripts', 'tt5_add_google_fonts');
-
 /**
  * Google Fonts ko bina kisi filter ke direct load karna
  * Taaki preload aur stylesheet dono 100% work karein
@@ -145,8 +125,6 @@ function tt5_add_google_fonts_final_fix() {
 // Isse hum wp_head mein sabse upar dalenge
 add_action('wp_head', 'tt5_add_google_fonts_final_fix', 1);
 
-
-// 
 add_filter( 'render_block', 'customize_cat_list_html_classes', 10, 2 );
 
 function customize_cat_list_html_classes( $block_content, $block ) {
@@ -1393,3 +1371,20 @@ function giftara_newsletter_popup()
 <?php
 }
 add_action('wp_footer', 'giftara_newsletter_popup');
+
+add_filter('wpcf7_form_elements', 'disable_recaptcha_for_whatsapp_updates_form', 10, 2);
+function disable_recaptcha_for_whatsapp_updates_form($content, $form) {
+
+    // Form title check
+    if ($form->title() === 'WhatsApp Updates') {
+
+        // reCAPTCHA v3 field remove
+        $content = preg_replace(
+            '/<input type="hidden" name="_wpcf7_recaptcha_response".*?>/i',
+            '',
+            $content
+        );
+    }
+
+    return $content;
+}
