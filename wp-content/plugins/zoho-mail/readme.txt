@@ -3,9 +3,9 @@ Contributors: Zoho Mail
 Tags: mail,mailer,phpmailer,wp_mail,email,zoho,zoho mail
 Donate link: none
 Requires at least: 4.8
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 1.6.1
+Stable tag: 1.6.2
 License: BSD
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -168,6 +168,8 @@ In case, you are not sure on how to proceed with the Zoho Mail plugin, feel free
 * Bug Fixes on fetal error.
 = 1.6.1 =
 * Bug Fixes on from name langugae support issue.
+= 1.6.2 =
+* Security enhancements and bug fixes.
 
 == Upgrade Notice ==
 none

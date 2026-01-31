@@ -140,25 +140,7 @@ if ( ! class_exists( 'HT_CTC_Admin_Other_Settings' ) ) {
 			<span class="right_icon dashicons dashicons-arrow-down-alt2"></span>
 		</div>
 		<div class="collapsible-body">
-		
 			<?php
-
-			/**
-			 * Parms_saved - hidden input filed.
-			 * adds to db. while user save changes. useful to identify user saved the params. (especially if user deletes all params - fallback values adds only if parms_saved not exits. (backward compatible))
-			 *
-			 * @since 3.31
-			 *
-			 * before 3.31 google_analytics, ga4 checkbox exists. and now it become one g_an checkbox and value of g_an is ga4 by default(new installs). and for upgrades it will be ga/ga4. updated at class ht-ctc-update-db.php
-			 */
-			?>
-		<input name="<?php echo esc_attr( $dbrow ); ?>[parms_saved]" value="after_3_31" type="hidden" class="hide">
-		<input name="<?php echo esc_attr( $dbrow ); ?>[parms_saved_2]" value="after_4_34" type="hidden" class="hide">
-		
-		
-		
-			<?php
-
 			// Google Analytics
 			$g_an_value = ( isset( $options['g_an'] ) ) ? esc_attr( $options['g_an'] ) : 'ga4';
 
@@ -185,59 +167,6 @@ if ( ! class_exists( 'HT_CTC_Admin_Other_Settings' ) ) {
 			</label>
 		</p>
 			<?php
-
-			/**
-			 * Updated analytics.
-			 *  new: settings for event name, type, params.
-			 *
-			 * @since 3.31
-			 */
-
-			// g_an_params not exits. (and user not yet saved/clear the params.) backward compatible.
-			if ( ! isset( $options['g_an_params'] ) && ! isset( $options['parms_saved'] ) ) {
-
-				if ( 'ga' === $g_an_value ) {
-					// if only ga is set.
-					$options['g_an_params'] = array(
-						'g_an_param_1',
-						'g_an_param_2',
-					);
-
-					$options['g_an_param_1'] = array(
-						'key'   => 'event_category',
-						'value' => 'Click to Chat for WhatsApp',
-					);
-
-					$options['g_an_param_2'] = array(
-						'key'   => 'event_label',
-						'value' => '{title}, {url}',
-					);
-
-				} else {
-					// ga4 or ..
-					$options['g_an_params'] = array(
-						'g_an_param_1',
-						'g_an_param_2',
-						'g_an_param_3',
-					);
-
-					$options['g_an_param_1'] = array(
-						'key'   => 'number',
-						'value' => '{number}',
-					);
-
-					$options['g_an_param_2'] = array(
-						'key'   => 'title',
-						'value' => '{title}',
-					);
-
-					$options['g_an_param_3'] = array(
-						'key'   => 'url',
-						'value' => '{url}',
-					);
-				}
-			}
-
 			$g_an_event_name = ( isset( $options['g_an_event_name'] ) ) ? esc_attr( $options['g_an_event_name'] ) : 'click to chat';
 			// list of all g_an params..
 
@@ -406,43 +335,6 @@ if ( ! class_exists( 'HT_CTC_Admin_Other_Settings' ) ) {
 			</label>
 		</p>
 			<?php
-			// parms_saved_2 not exits. (and user not yet saved/clear the params.) backward compatible.
-			if ( ! isset( $options['gtm_params'] ) && ! isset( $options['parms_saved_2'] ) ) {
-				$options['gtm_params'] = array(
-					'gtm_param_1',
-					'gtm_param_2',
-					'gtm_param_3',
-					'gtm_param_4',
-					'gtm_param_5',
-				);
-
-				$options['gtm_param_1'] = array(
-					'key'   => 'type',
-					'value' => 'chat',
-				);
-
-				$options['gtm_param_2'] = array(
-					'key'   => 'number',
-					'value' => '{number}',
-				);
-
-				$options['gtm_param_3'] = array(
-					'key'   => 'title',
-					'value' => '{title}',
-				);
-
-				$options['gtm_param_4'] = array(
-					'key'   => 'url',
-					'value' => '{url}',
-				);
-
-				$options['gtm_param_5'] = array(
-					'key'   => 'ref',
-					'value' => 'dataLayer push',
-				);
-
-			}
-
 			$gtm_event_name  = ( isset( $options['gtm_event_name'] ) ) ? esc_attr( $options['gtm_event_name'] ) : 'Click to Chat';
 			$gtm_params      = ( isset( $options['gtm_params'] ) && is_array( $options['gtm_params'] ) ) ? array_map( 'esc_attr', $options['gtm_params'] ) : '';
 			$gtm_param_order = ( isset( $options['gtm_param_order'] ) ) ? esc_attr( $options['gtm_param_order'] ) : 10;
@@ -543,17 +435,10 @@ if ( ! class_exists( 'HT_CTC_Admin_Other_Settings' ) ) {
 		</li>
 		</ul>
 
-
 			<?php
-
-			/**
-			 * Meta Pixel
-			 * updated: 3.31 (able to change event name, type, edit/add params)
-			 */
-
 			$fb_pixel_checkbox = ( isset( $options['fb_pixel'] ) ) ? esc_attr( $options['fb_pixel'] ) : '';
-
 			?>
+
 		<ul class="collapsible col_pixel coll_active" data-coll_active="col_pixel" id="col_pixel">
 		<li class="">
 		<div class="collapsible-header">
@@ -570,39 +455,6 @@ if ( ! class_exists( 'HT_CTC_Admin_Other_Settings' ) ) {
 			</label>
 		</p>
 			<?php
-
-			// if params not exits. (and user not yet saved/clear the params.)
-			if ( ! isset( $options['pixel_params'] ) && ! isset( $options['parms_saved'] ) ) {
-
-				$options['pixel_params'] = array(
-					'pixel_param_1',
-					'pixel_param_2',
-					'pixel_param_3',
-					'pixel_param_4',
-				);
-
-				$options['pixel_param_1'] = array(
-					'key'   => 'Category',
-					'value' => 'Click to Chat for WhatsApp',
-				);
-
-				$options['pixel_param_2'] = array(
-					'key'   => 'ID',
-					'value' => '{number}',
-				);
-
-				$options['pixel_param_3'] = array(
-					'key'   => 'Title',
-					'value' => '{title}',
-				);
-
-				$options['pixel_param_4'] = array(
-					'key'   => 'URL',
-					'value' => '{url}',
-				);
-
-			}
-
 			$pixel_event_type          = ( isset( $options['pixel_event_type'] ) ) ? esc_attr( $options['pixel_event_type'] ) : 'trackCustom';
 			$pixel_custom_event_name   = ( isset( $options['pixel_custom_event_name'] ) ) ? esc_attr( $options['pixel_custom_event_name'] ) : 'Click to Chat by HoliThemes';
 			$pixel_standard_event_name = ( isset( $options['pixel_standard_event_name'] ) ) ? esc_attr( $options['pixel_standard_event_name'] ) : 'Lead';

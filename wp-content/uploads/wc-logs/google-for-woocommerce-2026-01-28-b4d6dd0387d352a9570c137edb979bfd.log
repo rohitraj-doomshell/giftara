@@ -1,0 +1,4 @@
+2026-01-28T09:56:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::process_product_statuses Merchant Center product 9223372036854775807 not found in this WooCommerce store.
+2026-01-28T09:56:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\MerchantStatuses::get_product_issues in remove_invalid_statuses() Merchant Center product online:en:IN:17714635642387438970 not found in this WooCommerce store.
+2026-01-28T10:12:54+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2026-01-28T11:14:08+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 

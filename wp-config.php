@@ -1,5 +1,6 @@
 <?php
-define('WP_CACHE',true);
+define( 'WP_CACHE', true );
+
 define('DISABLE_WP_CRON', true);
 
 /**
@@ -23,13 +24,13 @@ define('DISABLE_WP_CRON', true);
 // ** Database settings - You can get this info from your web host ** //
 /** Database settings for local XAMPP */
 /** The name of the database for WordPress */
-define('DB_NAME', 'giftara');
+define('DB_NAME', 'pydrqhmy_stagingthegiftara');
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'pydrqhmy_stagingthegiftara');
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'EAgLdNk-}_YaJX7(');
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '50.6.43.92');
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
 /** The Database Collate type. Don't change this if in doubt. */
@@ -43,8 +44,8 @@ define('WP_MAX_MEMORY_LIMIT', '256M');
 /* That's all, stop editing! Happy publishing. */
 
 
-define( 'WP_HOME', 'http://localhost/giftara' );
-define( 'WP_SITEURL', 'http://localhost/giftara' );
+define( 'WP_HOME', 'https://staging.thegiftara.com' );
+define( 'WP_SITEURL', 'https://staging.thegiftara.com' );
 /**#@+
  * Authentication unique keys and salts.
  *
@@ -90,9 +91,9 @@ $table_prefix = 'wp_';
  *
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
-define('WP_DEBUG', true);
-// define('WP_DEBUG_DISPLAY', false);
-// define('WP_DEBUG_LOG', false);
+define('WP_DEBUG', false);
+define('WP_DEBUG_DISPLAY', false);
+define('WP_DEBUG_LOG', false);
 /* Add any custom values between this line and the "stop editing" line. */
 /* That's all, stop editing! Happy publishing. */
 /** Absolute path to the WordPress directory. */

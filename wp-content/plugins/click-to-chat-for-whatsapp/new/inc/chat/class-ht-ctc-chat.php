@@ -583,43 +583,6 @@ if ( ! class_exists( 'HT_CTC_Chat' ) ) {
 						);
 					}
 				}
-			} elseif ( ! isset( $othersettings['parms_saved'] ) ) {
-
-				// If user not yet saved the params. (backward compatibility)
-				if ( 'ga' === $g_an_value ) {
-					$values['g_an_params'] = array(
-						'g_an_param_1',
-						'g_an_param_2',
-					);
-
-					$values['g_an_param_1'] = array(
-						'key'   => 'event_category',
-						'value' => 'Click to Chat for WhatsApp',
-					);
-
-					$values['g_an_param_2'] = array(
-						'key'   => 'event_label',
-						'value' => '{title}, {url}',
-					);
-				} else {
-					$values['g_an_params']  = array(
-						'g_an_param_1',
-						'g_an_param_2',
-						'g_an_param_3',
-					);
-					$values['g_an_param_1'] = array(
-						'key'   => 'number',
-						'value' => '{number}',
-					);
-					$values['g_an_param_2'] = array(
-						'key'   => 'title',
-						'value' => '{title}',
-					);
-					$values['g_an_param_3'] = array(
-						'key'   => 'url',
-						'value' => '{url}',
-					);
-				}
 			}
 
 			// pixel params
@@ -638,33 +601,6 @@ if ( ! class_exists( 'HT_CTC_Chat' ) ) {
 						);
 					}
 				}
-			} elseif ( ! isset( $othersettings['parms_saved'] ) ) {
-					$values['pixel_params'] = array(
-						'pixel_param_1',
-						'pixel_param_2',
-						'pixel_param_3',
-						'pixel_param_4',
-					);
-
-					$values['pixel_param_1'] = array(
-						'key'   => 'Category',
-						'value' => 'Click to Chat for WhatsApp',
-					);
-
-					$values['pixel_param_2'] = array(
-						'key'   => 'ID',
-						'value' => '{number}',
-					);
-
-					$values['pixel_param_3'] = array(
-						'key'   => 'Title',
-						'value' => '{title}',
-					);
-
-					$values['pixel_param_4'] = array(
-						'key'   => 'URL',
-						'value' => '{url}',
-					);
 			}
 
 			// gtm params
@@ -683,34 +619,6 @@ if ( ! class_exists( 'HT_CTC_Chat' ) ) {
 						);
 					}
 				}
-			} elseif ( ! isset( $othersettings['gtm_params'] ) && ! isset( $othersettings['parms_saved_2'] ) ) {
-				$values['gtm_params']  = array(
-					'gtm_param_1',
-					'gtm_param_2',
-					'gtm_param_3',
-					'gtm_param_4',
-					'gtm_param_5',
-				);
-				$values['gtm_param_1'] = array(
-					'key'   => 'type',
-					'value' => 'chat',
-				);
-				$values['gtm_param_2'] = array(
-					'key'   => 'number',
-					'value' => '{number}',
-				);
-				$values['gtm_param_3'] = array(
-					'key'   => 'title',
-					'value' => '{title}',
-				);
-				$values['gtm_param_4'] = array(
-					'key'   => 'url',
-					'value' => '{url}',
-				);
-				$values['gtm_param_5'] = array(
-					'key'   => 'ref',
-					'value' => 'dataLayer push',
-				);
 			}
 
 			$values = apply_filters( 'ht_ctc_fh_variables', $values );

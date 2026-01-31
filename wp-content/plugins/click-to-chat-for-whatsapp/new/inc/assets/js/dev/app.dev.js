@@ -1512,8 +1512,8 @@ console.log( 'app js jQuery:', htCtcJq );
 				 */
 
 			// Create basic event info
-			var ga_parms = new Map();
-			const getGaParamsObject = () => Object.fromEntries( ga_parms );
+			var ga_params = new Map();
+			const getGaParamsObject = () => Object.fromEntries( ga_params );
 			var ga_category = 'Click to Chat for WhatsApp';
 			var ga_action = 'chat: ' + id;
 			var ga_label = post_title + ', ' + url;
@@ -1565,10 +1565,10 @@ console.log( 'app js jQuery:', htCtcJq );
 						}
 						console.log( parameterKey );
 						console.log( parameterValue );
-						ga_parms.set( parameterKey, parameterValue );
+						ga_params.set( parameterKey, parameterValue );
 					} );
 				}
-				console.log( 'ga_parms' );
+				console.log( 'ga_params' );
 				console.log( getGaParamsObject() );
 
 				var gtag_count = 0;
@@ -1612,11 +1612,11 @@ console.log( 'app js jQuery:', htCtcJq );
 
 							// Only allow certain tag ID formats
 							if ( tag_id.startsWith( 'G-' ) || tag_id.startsWith( 'GT-' ) ) {
-								ga_parms.set( 'send_to', tag_id );
+								ga_params.set( 'send_to', tag_id );
 
 								console.log( 'gtag event - send_to: ' + tag_id );
 								console.log( 'g_event_name: ' + g_event_name );
-								console.log( 'ga_parms: ' );
+								console.log( 'ga_params: ' );
 								console.log( getGaParamsObject() );
 
 								gtag( 'event', g_event_name, getGaParamsObject() );
@@ -1729,7 +1729,7 @@ console.log( 'app js jQuery:', htCtcJq );
 						console.log( 'calling gtag - default (no specifc send to parm. ' +
 							'g_event_name: ' +
 							g_event_name );
-						console.log( 'ga_parms: ' );
+						console.log( 'ga_params: ' );
 						console.log( getGaParamsObject() );
 						gtag( 'event', g_event_name, getGaParamsObject() );
 					} else if ( typeof ga !== 'undefined' && typeof ga.getAll !== 'undefined' ) {

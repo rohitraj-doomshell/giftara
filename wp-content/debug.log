@@ -1,0 +1,28 @@
+[29-Jan-2026 10:49:09 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:49:10 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:50:20 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:52:21 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:54:29 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:56:23 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:56:26 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:56:37 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:56:47 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:56:57 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:57:07 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:57:17 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:57:23 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:57:27 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:59:26 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 10:59:27 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 11:01:27 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 11:01:29 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 11:03:27 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 11:03:30 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 11:05:28 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 11:05:30 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home1/pydrqhmy/staging.thegiftara.com/wp-content/mu-plugins/giftara-byob.php on line 647
+[29-Jan-2026 11:11:32 UTC] PHP Deprecated:  Using null as an array offset is deprecated, use an empty string instead in /home1/pydrqhmy/staging.thegiftara.com/wp-content/plugins/woocommerce/src/Admin/PageController.php on line 120
+[29-Jan-2026 11:11:32 UTC] PHP Deprecated:  Using null as an array offset is deprecated, use an empty string instead in /home1/pydrqhmy/staging.thegiftara.com/wp-includes/functions.php on line 1189
+[29-Jan-2026 11:42:25 UTC] PHP Deprecated:  Using null as an array offset is deprecated, use an empty string instead in /home1/pydrqhmy/staging.thegiftara.com/wp-content/plugins/woocommerce/src/Admin/PageController.php on line 120
+[29-Jan-2026 11:42:25 UTC] PHP Deprecated:  Using null as an array offset is deprecated, use an empty string instead in /home1/pydrqhmy/staging.thegiftara.com/wp-includes/functions.php on line 1189
+[29-Jan-2026 11:42:26 UTC] PHP Deprecated:  Using null as an array offset is deprecated, use an empty string instead in /home1/pydrqhmy/staging.thegiftara.com/wp-content/plugins/woocommerce/src/Admin/PageController.php on line 120
+[29-Jan-2026 11:42:26 UTC] PHP Deprecated:  Using null as an array offset is deprecated, use an empty string instead in /home1/pydrqhmy/staging.thegiftara.com/wp-includes/functions.php on line 1189
