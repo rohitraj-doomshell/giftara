@@ -1196,22 +1196,27 @@ function giftara_send_final_order() {
 
 /**
  * Giftara "First Purchase" 20% Off Popup
- * Automatic Popup logic with Custom CSS (No Bootstrap required)
+ * Home Page + Scroll Trigger Popup
  */
-function giftara_newsletter_popup() {
-    // Sirf frontend par dikhaye
-    if ( is_admin() ) return;
-    ?>
+function giftara_newsletter_popup()
+{
+
+    // Sirf frontend + sirf Home Page
+    if (is_admin() || ! is_front_page()) return;
+?>
 
     <div id="giftaraScrollModal" class="giftara-overlay">
         <div class="giftara-popup-content">
             <button type="button" class="giftara-close-btn">&times;</button>
-            
+
             <div class="giftara-popup-body">
                 <div class="giftara-popup-text">
                     <h2>20% Off Your First Purchase</h2>
-                    <p>Provide your name and mobile number to get special offers, early access to new collections, and personalized updates on WhatsApp.</p>
-                    
+                    <p>
+                        Provide your name and mobile number to get special offers,
+                        early access to new collections, and personalized updates on WhatsApp.
+                    </p>
+
                     <div class="giftara-form-wrapper">
                         <?php echo do_shortcode('[contact-form-7 id="117062e" title="Purchase Form"]'); ?>
                     </div>
@@ -1225,34 +1230,6 @@ function giftara_newsletter_popup() {
     </div>
 
     <style>
-        /* Overlay Background */
-        .giftara-overlay {
-            display: none; /* Hidden by default */
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.7);
-            z-index: 999999;
-            align-items: center;
-            justify-content: center;
-            backdrop-filter: blur(3px);
-        }
-
-        /* Popup Box */
-        .giftara-popup-content {
-            background: #fff;
-            width: 90%;
-            max-width: 900px;
-            border-radius: 10px;
-            position: relative;
-            overflow: hidden;
-            display: flex;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-            font-family: var(--wp--preset--font-family--source-serif-pro, sans-serif);
-        }
-
         /* Close Button */
         .giftara-close-btn {
             position: absolute;
@@ -1262,32 +1239,60 @@ function giftara_newsletter_popup() {
             border: none;
             font-size: 30px;
             font-weight: bold;
-            color: #333;
+            color: #E256B9;
             cursor: pointer;
             z-index: 10;
             line-height: 1;
         }
 
-        /* Layout Grid */
+        .giftara-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 999999;
+            align-items: center;
+            justify-content: center;
+            backdrop-filter: blur(3px);
+        }
+
+        .giftara-popup-content {
+            background: #fff;
+            width: 90%;
+            max-width: 900px;
+            border-radius: 10px;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            font-family: var(--wp--preset--font-family--source-serif-pro, sans-serif);
+        }
+
+        .giftara-close-btn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            background: none;
+            border: none;
+            font-size: 30px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 10;
+        }
+
         .giftara-popup-body {
             display: flex;
             width: 100%;
         }
 
-        /* Left Side (Text & Form) */
         .giftara-popup-text {
             flex: 1;
             padding: 40px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
         }
 
         .giftara-popup-text h2 {
             font-size: 28px;
-            margin-top: 0;
             margin-bottom: 15px;
-            color: #000;
             font-weight: 700;
         }
 
@@ -1298,20 +1303,16 @@ function giftara_newsletter_popup() {
             line-height: 1.5;
         }
 
-        /* Right Side (Image) */
         .giftara-popup-image {
             flex: 1;
-            display: block;
         }
 
         .giftara-popup-image img {
             width: 100%;
             height: 100%;
             object-fit: cover;
-            display: block;
         }
 
-        /* Form Styling Fixes */
         .giftara-form-wrapper input[type="text"],
         .giftara-form-wrapper input[type="email"],
         .giftara-form-wrapper input[type="tel"] {
@@ -1325,72 +1326,70 @@ function giftara_newsletter_popup() {
 
         .giftara-form-wrapper input[type="submit"] {
             width: 100%;
-            background-color: #e44d9b; /* Brand Pink */
+            background: #e44d9b;
             color: #fff;
             padding: 12px;
             border: none;
             border-radius: 5px;
             font-weight: bold;
             cursor: pointer;
-            margin-top: 5px;
             text-transform: uppercase;
         }
-        
+
         .giftara-form-wrapper input[type="submit"]:hover {
-            background-color: #c23b82;
+            background: #c23b82;
         }
 
-        /* Mobile Responsive */
-        @media screen and (max-width: 768px) {
+        @media (max-width: 768px) {
             .giftara-popup-body {
-                flex-direction: column-reverse; /* Image on top, form below */
+                flex-direction: column-reverse;
             }
+
             .giftara-popup-image {
                 height: 150px;
             }
+
             .giftara-popup-text {
                 padding: 20px;
-            }
-            .giftara-popup-text h2 {
-                font-size: 22px;
             }
         }
     </style>
 
     <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        var modal = document.getElementById("giftaraScrollModal");
-        var closeBtn = document.querySelector(".giftara-close-btn");
+        document.addEventListener('DOMContentLoaded', function() {
 
-        // Function to show modal
-        function showModal() {
-            // Check if user has already closed it recently (Optional)
-            // if(!sessionStorage.getItem('giftaraPopupClosed')) {
-                modal.style.display = "flex";
-            // }
-        }
+            var modal = document.getElementById('giftaraScrollModal');
+            var closeBtn = document.querySelector('.giftara-close-btn');
 
-        // Trigger: Open after 2 seconds
-        setTimeout(showModal, 2000);
+            function showPopupOnScroll() {
 
-        // Close Logic
-        if(closeBtn) {
-            closeBtn.onclick = function() {
-                modal.style.display = "none";
-                // Save to session so it doesn't open again immediately (Optional)
-                // sessionStorage.setItem('giftaraPopupClosed', 'true');
+                var scrollPercent =
+                    (window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100;
+
+                if (scrollPercent > 30) { // 30% scroll
+                    modal.style.display = 'flex';
+                    window.removeEventListener('scroll', showPopupOnScroll); // ek baar show hoke stop
+                }
             }
-        }
 
-        // Close on Outside Click
-        window.onclick = function(event) {
-            if (event.target == modal) {
-                modal.style.display = "none";
+            window.addEventListener('scroll', showPopupOnScroll);
+
+            if (closeBtn) {
+                closeBtn.addEventListener('click', function() {
+                    modal.style.display = 'none';
+                });
             }
-        }
-    });
+
+            modal.addEventListener('click', function(e) {
+                if (e.target === modal) {
+                    modal.style.display = 'none';
+                }
+            });
+
+        });
     </script>
 
-    <?php
+
+<?php
 }
-add_action( 'wp_footer', 'giftara_newsletter_popup' );
+add_action('wp_footer', 'giftara_newsletter_popup');
